@@ -1,0 +1,59 @@
+<template>
+  <lightning-card title="Movie Reviews" icon-name="standard:feedback">
+      <!-- Display error message if any -->
+      <template if:true={errorMessage}>
+          <div class="slds-text-color_error">{errorMessage}</div>
+      </template>
+
+      <!-- Display success message if any -->
+      <template if:true={successMessage}>
+          <div class="slds-text-color_success">{successMessage}</div>
+      </template>
+
+      <!-- Display the list of reviews -->
+      <template if:true={reviews.length}>
+          <div class="slds-box slds-theme_default slds-m-bottom_small">
+              <template for:each={reviews} for:item="review">
+                  <div key={review.id} class="slds-box slds-m-bottom_x-small">
+                      <div>
+                          <strong>{review.author}</strong> - {review.created_at}
+                      </div>
+                      <div>
+                          {review.content}
+                      </div>
+                      <lightning-button label="Read More" variant="brand" onclick={handleReadMore} data-id={review.id}></lightning-button>
+                  </div>
+              </template>
+          </div>
+      </template>
+      <template if:false={reviews.length}>
+          <p>No reviews available.</p>
+      </template>
+  </lightning-card>
+
+  <!-- Modal for reading more -->
+  <template if:true={isModalOpen}>
+      <section role="dialog" tabindex="-1" aria-modal="true" aria-labelledby="modal-heading-01" class="slds-modal slds-fade-in-open">
+        <div class="slds-modal__container">
+        <button class="slds-button slds-button_icon slds-modal__close slds-button_icon-inverse">
+        <svg class="slds-button__icon slds-button__icon_large" aria-hidden="true">
+        <use xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#close"></use>
+        </svg>
+        <span class="slds-assistive-text">Cancel and close</span>
+        </button>
+        <div class="slds-modal__header">
+        <h1 id="modal-heading-01" class="slds-modal__title slds-hyphenate" tabindex="-1">Review details</h1>
+        </div>
+        <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+            <p><strong>Author:</strong> {selectedReview.author}</p>
+            <p><strong>Date:</strong> {selectedReview.created_at}</p>
+            <p><strong>Review:</strong> {selectedReview.fullContent}</p>
+        </div>
+        <div class="slds-modal__footer slds-modal__footer_directional">
+        <button class="slds-button slds-button_neutral" onclick={closeModal}>Close</button>
+        </div>
+        </div>
+        </section>
+        <div class="slds-backdrop slds-backdrop_open" role="presentation"></div>
+  </template>
+</template>

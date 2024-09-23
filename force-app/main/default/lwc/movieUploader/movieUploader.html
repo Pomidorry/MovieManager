@@ -1,0 +1,22 @@
+<!-- sldsValidatorIgnore -->
+<template>
+    <lightning-card title="Movie Uploader" icon-name="standard:file">
+        <div class="uploadContaien">
+        <div class="fileContainer">
+            <input type="file" accept=".json" onchange={handleUploadFinished}/>
+        </div>
+        <div class="btnContainer">
+        <template if:true={movieCount}>
+            <p>Number of movies: {movieCount}</p>
+        </template>
+
+        <lightning-button
+            label="Create Movie Records"
+            variant="brand"
+            onclick={handleCreateRecords}
+            disabled={isCreateDisabled}>
+        </lightning-button>
+        </div>    
+         </div>
+    </lightning-card>
+</template>

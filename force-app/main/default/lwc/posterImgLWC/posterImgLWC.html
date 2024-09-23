@@ -1,0 +1,10 @@
+<template>
+    <p>Movie Poster:</p>
+    <template if:true={posterUrl}>
+       <img src={posterUrl} alt="Movie Poster" style="max-width: 400px;" />
+    </template>
+    <template if:true={error}>
+       <p>Error loading poster.</p>
+    </template>
+ </template>
+ 

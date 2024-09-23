@@ -1,0 +1,68 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 500px; /* Ensures there is space for the content */
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background-color: #f8f8f8;
+    position: relative;
+}
+
+.input-container {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.results-container {
+    width: 100%;
+    max-height: 320px; /* Set max height for the list */
+    overflow-y: auto; /* Enable scrolling */
+    margin-bottom: 20px;
+}
+
+.results-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.results-item {
+    margin-bottom: 10px;
+}
+
+.results-item button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #78c2ff;
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.results-item button:hover {
+    background-color: #65a5d9;
+}
+
+.button-container {
+    width: 100%;
+    position: absolute;
+    bottom: 20px; /* Fix the button to the bottom of the form container */
+    display: flex;
+    justify-content: center;
+}
+
+.create-button {
+    width: 200px;
+    padding: 12px 0;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-left: 10%;
+}

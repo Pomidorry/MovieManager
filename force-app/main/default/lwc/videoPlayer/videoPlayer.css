@@ -1,0 +1,19 @@
+.video-container {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+.error-form{
+    padding: 0.5rem 1rem;
+    border: 2px solid #078fff;
+    height: 50px;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #5a5a5a;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 91, 181, 0.5);
+    width: 100%;
+    text-align: center;
+    line-height: 30px;
+}

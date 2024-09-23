@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>EditGroup</label>
+    <permissionSets>CastEdit</permissionSets>
+    <permissionSets>MemberEdit</permissionSets>
+    <permissionSets>MovieEdit</permissionSets>
+    <permissionSets>ScriptEdit</permissionSets>
+    <permissionSets>StudioEdit</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

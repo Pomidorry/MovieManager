@@ -1,0 +1,15 @@
+<template>
+    <template if:true={videoUrl}>
+        <div class="video-container">
+            <iframe width="560" height="315" src={videoUrl} frameborder="0" allowfullscreen></iframe>
+        </div>
+    </template>
+    
+    <template if:false={videoUrl}>
+        <div class="slds-m-bottom_medium">
+            <div class="slds-form-element">
+                <div class="error-form">Video not found</div>
+            </div>
+        </div>
+    </template>
+</template>

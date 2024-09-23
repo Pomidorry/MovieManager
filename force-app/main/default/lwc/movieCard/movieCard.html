@@ -1,0 +1,20 @@
+<template>
+    <div class="card">
+        <img class="card-image" src={movie.posterUrl} alt={movie.title} />
+        <div class="card-text">
+            <div class="card-title">{movie.title}</div>
+            <div class="card-info">Rating: {movie.rating}</div>
+            <div class="card-info">Genre: {movie.genres}</div>
+            <template if:true={movie.isHorror}>
+                <span class="horror-source">18+</span>
+            </template>
+        </div>
+        <div
+            class="card-stats"
+            onclick={redirectToRecPage}
+            data-item-id={movie.id}
+        >
+            Details
+        </div>
+    </div>
+</template>

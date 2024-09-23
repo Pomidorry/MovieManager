@@ -1,0 +1,3394 @@
+[
+    {
+        "id": "1",
+        "name": "Avatar",
+        "tmdb_id": "19995",
+        "genre": "Action;Adventure;Fantasy;Science_Fiction",
+        "rating": 7.2,
+        "budget": 237000000,
+        "actual_budget": 237000000,
+        "revenue": 2787965087,
+        "script": {
+            "id": "1",
+            "name": "Avatar",
+            "description": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization."
+        },
+        "release_date": "10/12/2009",
+        "status": "Released"
+    },
+    {
+        "id": "2",
+        "name": "Pirates of the Caribbean: At World's End",
+        "tmdb_id": "285",
+        "genre": "Adventure;Fantasy;Action",
+        "rating": 6.9,
+        "budget": 300000000,
+        "actual_budget": 300000000,
+        "revenue": 961000000,
+        "script": {
+            "id": "2",
+            "name": "Pirates of the Caribbean: At World's End",
+            "description": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems."
+        },
+        "release_date": "19/05/2007",
+        "status": "Released"
+    },
+    {
+        "id": "3",
+        "name": "Spectre",
+        "tmdb_id": "206647",
+        "genre": "Action;Adventure;Crime",
+        "rating": 6.3,
+        "budget": 245000000,
+        "actual_budget": 245000000,
+        "revenue": 880674609,
+        "script": {
+            "id": "3",
+            "name": "Spectre",
+            "description": "A cryptic message from Bond‚Äôs past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE."
+        },
+        "release_date": "26/10/2015",
+        "status": "Released"
+    },
+    {
+        "id": "4",
+        "name": "The Dark Knight Rises",
+        "tmdb_id": "49026",
+        "genre": "Action;Crime;Drama;Thriller",
+        "rating": 7.6,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 1084939099,
+        "script": {
+            "id": "4",
+            "name": "The Dark Knight Rises",
+            "description": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy."
+        },
+        "release_date": "16/07/2012",
+        "status": "Released"
+    },
+    {
+        "id": "5",
+        "name": "John Carter",
+        "tmdb_id": "49529",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 6.1,
+        "budget": 260000000,
+        "actual_budget": 260000000,
+        "revenue": 284139100,
+        "script": {
+            "id": "5",
+            "name": "John Carter",
+            "description": "John Carter is a war-weary, former military captain who's inexplicably transported to the mysterious and exotic planet of Barsoom (Mars) and reluctantly becomes embroiled in an epic conflict. It's a world on the brink of collapse, and Carter rediscovers his humanity when he realizes the survival of Barsoom and its people rests in his hands."
+        },
+        "release_date": "07/03/2012",
+        "status": "Released"
+    },
+    {
+        "id": "6",
+        "name": "Spider-Man 3",
+        "tmdb_id": "559",
+        "genre": "Fantasy;Action;Adventure",
+        "rating": 5.9,
+        "budget": 258000000,
+        "actual_budget": 258000000,
+        "revenue": 890871626,
+        "script": {
+            "id": "6",
+            "name": "Spider-Man 3",
+            "description": "The seemingly invincible Spider-Man goes up against an all-new crop of villain ‚Äì including the shape-shifting Sandman. While Spider-Man‚Äôs superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle."
+        },
+        "release_date": "01/05/2007",
+        "status": "Released"
+    },
+    {
+        "id": "7",
+        "name": "Tangled",
+        "tmdb_id": "38757",
+        "genre": "Animation;Family",
+        "rating": 7.4,
+        "budget": 260000000,
+        "actual_budget": 260000000,
+        "revenue": 591794936,
+        "script": {
+            "id": "7",
+            "name": "Tangled",
+            "description": "When the kingdom's most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn's curious captor, who's looking for her ticket out of the tower where she's been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs."
+        },
+        "release_date": "24/11/2010",
+        "status": "Released"
+    },
+    {
+        "id": "8",
+        "name": "Avengers: Age of Ultron",
+        "tmdb_id": "99861",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 7.3,
+        "budget": 280000000,
+        "actual_budget": 280000000,
+        "revenue": 1405403694,
+        "script": {
+            "id": "8",
+            "name": "Avengers: Age of Ultron",
+            "description": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth‚Äôs Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure."
+        },
+        "release_date": "22/04/2015",
+        "status": "Released"
+    },
+    {
+        "id": "9",
+        "name": "Harry Potter and the Half-Blood Prince",
+        "tmdb_id": "767",
+        "genre": "Adventure;Fantasy;Family",
+        "rating": 7.4,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 933959197,
+        "script": {
+            "id": "9",
+            "name": "Harry Potter and the Half-Blood Prince",
+            "description": "As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past."
+        },
+        "release_date": "07/07/2009",
+        "status": "Released"
+    },
+    {
+        "id": "10",
+        "name": "Batman v Superman: Dawn of Justice",
+        "tmdb_id": "209112",
+        "genre": "Action;Adventure;Fantasy",
+        "rating": 5.7,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 873260194,
+        "script": {
+            "id": "10",
+            "name": "Batman v Superman: Dawn of Justice",
+            "description": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City‚Äôs own formidable, forceful vigilante takes on Metropolis‚Äôs most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it‚Äôs ever known before."
+        },
+        "release_date": "23/03/2016",
+        "status": "Released"
+    },
+    {
+        "id": "11",
+        "name": "Superman Returns",
+        "tmdb_id": "1452",
+        "genre": "Adventure;Fantasy;Action;Science_Fiction",
+        "rating": 5.4,
+        "budget": 270000000,
+        "actual_budget": 270000000,
+        "revenue": 391081192,
+        "script": {
+            "id": "11",
+            "name": "Superman Returns",
+            "description": "Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest too felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel."
+        },
+        "release_date": "28/06/2006",
+        "status": "Released"
+    },
+    {
+        "id": "12",
+        "name": "Quantum of Solace",
+        "tmdb_id": "10764",
+        "genre": "Adventure;Action;Thriller;Crime",
+        "rating": 6.1,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 586090727,
+        "script": {
+            "id": "12",
+            "name": "Quantum of Solace",
+            "description": "Quantum of Solace continues the adventures of James Bond after Casino Royale. Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined."
+        },
+        "release_date": "30/10/2008",
+        "status": "Released"
+    },
+    {
+        "id": "13",
+        "name": "Pirates of the Caribbean: Dead Man's Chest",
+        "tmdb_id": "58",
+        "genre": "Adventure;Fantasy;Action",
+        "rating": 7.0,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 1065659812,
+        "script": {
+            "id": "13",
+            "name": "Pirates of the Caribbean: Dead Man's Chest",
+            "description": "Captain Jack Sparrow works his way out of a blood debt with the ghostly Davey Jones, he also attempts to avoid eternal damnation."
+        },
+        "release_date": "20/06/2006",
+        "status": "Released"
+    },
+    {
+        "id": "14",
+        "name": "The Lone Ranger",
+        "tmdb_id": "57201",
+        "genre": "Action;Adventure;Western",
+        "rating": 5.9,
+        "budget": 255000000,
+        "actual_budget": 255000000,
+        "revenue": 89289910,
+        "script": {
+            "id": "14",
+            "name": "The Lone Ranger",
+            "description": "The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice."
+        },
+        "release_date": "03/07/2013",
+        "status": "Released"
+    },
+    {
+        "id": "15",
+        "name": "Man of Steel",
+        "tmdb_id": "49521",
+        "genre": "Action;Adventure;Fantasy;Science_Fiction",
+        "rating": 6.5,
+        "budget": 225000000,
+        "actual_budget": 225000000,
+        "revenue": 662845518,
+        "script": {
+            "id": "15",
+            "name": "Man of Steel",
+            "description": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind."
+        },
+        "release_date": "12/06/2013",
+        "status": "Released"
+    },
+    {
+        "id": "16",
+        "name": "The Chronicles of Narnia: Prince Caspian",
+        "tmdb_id": "2454",
+        "genre": "Adventure;Family;Fantasy",
+        "rating": 6.3,
+        "budget": 225000000,
+        "actual_budget": 225000000,
+        "revenue": 419651413,
+        "script": {
+            "id": "16",
+            "name": "The Chronicles of Narnia: Prince Caspian",
+            "description": "One year after their incredible adventures in the Lion, the Witch and the Wardrobe, Peter, Edmund, Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now, with the help of a colorful cast of new characters, including Trufflehunter the badger and Nikabrik the dwarf, the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir."
+        },
+        "release_date": "15/05/2008",
+        "status": "Released"
+    },
+    {
+        "id": "17",
+        "name": "The Avengers",
+        "tmdb_id": "24428",
+        "genre": "Science_Fiction;Action;Adventure",
+        "rating": 7.4,
+        "budget": 220000000,
+        "actual_budget": 220000000,
+        "revenue": 1519557910,
+        "script": {
+            "id": "17",
+            "name": "The Avengers",
+            "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!"
+        },
+        "release_date": "25/04/2012",
+        "status": "Released"
+    },
+    {
+        "id": "18",
+        "name": "Pirates of the Caribbean: On Stranger Tides",
+        "tmdb_id": "1865",
+        "genre": "Adventure;Action;Fantasy",
+        "rating": 6.4,
+        "budget": 380000000,
+        "actual_budget": 380000000,
+        "revenue": 1045713802,
+        "script": {
+            "id": "18",
+            "name": "Pirates of the Caribbean: On Stranger Tides",
+            "description": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love -- or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past."
+        },
+        "release_date": "14/05/2011",
+        "status": "Released"
+    },
+    {
+        "id": "19",
+        "name": "Men in Black 3",
+        "tmdb_id": "41154",
+        "genre": "Action;Comedy;Science_Fiction",
+        "rating": 6.2,
+        "budget": 225000000,
+        "actual_budget": 225000000,
+        "revenue": 624026776,
+        "script": {
+            "id": "19",
+            "name": "Men in Black 3",
+            "description": "Agents J (Will Smith) and K (Tommy Lee Jones) are back...in time. J has seen some inexplicable things in his 15 years with the Men in Black, but nothing, not even aliens, perplexes him as much as his wry, reticent partner. But when K's life and the fate of the planet are put at stake, Agent J will have to travel back in time to put things right. J discovers that there are secrets to the universe that K never told him - secrets that will reveal themselves as he teams up with the young Agent K (Josh Brolin) to save his partner, the agency, and the future of humankind."
+        },
+        "release_date": "23/05/2012",
+        "status": "Released"
+    },
+    {
+        "id": "20",
+        "name": "The Hobbit: The Battle of the Five Armies",
+        "tmdb_id": "122917",
+        "genre": "Action;Adventure;Fantasy",
+        "rating": 7.1,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 956019788,
+        "script": {
+            "id": "20",
+            "name": "The Hobbit: The Battle of the Five Armies",
+            "description": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands."
+        },
+        "release_date": "10/12/2014",
+        "status": "Released"
+    },
+    {
+        "id": "21",
+        "name": "The Amazing Spider-Man",
+        "tmdb_id": "1930",
+        "genre": "Action;Adventure;Fantasy",
+        "rating": 6.5,
+        "budget": 215000000,
+        "actual_budget": 215000000,
+        "revenue": 752215857,
+        "script": {
+            "id": "21",
+            "name": "The Amazing Spider-Man",
+            "description": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance ‚Äì leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero."
+        },
+        "release_date": "27/06/2012",
+        "status": "Released"
+    },
+    {
+        "id": "22",
+        "name": "Robin Hood",
+        "tmdb_id": "20662",
+        "genre": "Action;Adventure",
+        "rating": 6.2,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 310669540,
+        "script": {
+            "id": "22",
+            "name": "Robin Hood",
+            "description": "When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man's sword to his family in Nottingham. There, he assumes Robert's identity; romances his widow, Marion; and draws the ire of the town's sheriff and King John's henchman, Godfrey."
+        },
+        "release_date": "12/05/2010",
+        "status": "Released"
+    },
+    {
+        "id": "23",
+        "name": "The Hobbit: The Desolation of Smaug",
+        "tmdb_id": "57158",
+        "genre": "Adventure;Fantasy",
+        "rating": 7.6,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 958400000,
+        "script": {
+            "id": "23",
+            "name": "The Hobbit: The Desolation of Smaug",
+            "description": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug."
+        },
+        "release_date": "11/12/2013",
+        "status": "Released"
+    },
+    {
+        "id": "24",
+        "name": "The Golden Compass",
+        "tmdb_id": "2268",
+        "genre": "Adventure;Fantasy",
+        "rating": 5.8,
+        "budget": 180000000,
+        "actual_budget": 180000000,
+        "revenue": 372234864,
+        "script": {
+            "id": "24",
+            "name": "The Golden Compass",
+            "description": "After overhearing a shocking secret, precocious orphan Lyra Belacqua trades her carefree existence roaming the halls of Jordan College for an otherworldly adventure in the far North, unaware that it's part of her destiny."
+        },
+        "release_date": "04/12/2007",
+        "status": "Released"
+    },
+    {
+        "id": "25",
+        "name": "King Kong",
+        "tmdb_id": "254",
+        "genre": "Adventure;Drama;Action",
+        "rating": 6.6,
+        "budget": 207000000,
+        "actual_budget": 207000000,
+        "revenue": 550000000,
+        "script": {
+            "id": "25",
+            "name": "King Kong",
+            "description": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady."
+        },
+        "release_date": "14/12/2005",
+        "status": "Released"
+    },
+    {
+        "id": "26",
+        "name": "Titanic",
+        "tmdb_id": "597",
+        "genre": "Drama;Romance;Thriller",
+        "rating": 7.5,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 1845034188,
+        "script": {
+            "id": "26",
+            "name": "Titanic",
+            "description": "84 years later, a 101-year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fianc√©, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning."
+        },
+        "release_date": "18/11/1997",
+        "status": "Released"
+    },
+    {
+        "id": "27",
+        "name": "Captain America: Civil War",
+        "tmdb_id": "271110",
+        "genre": "Adventure;Action;Science_Fiction",
+        "rating": 7.1,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 1153304495,
+        "script": {
+            "id": "27",
+            "name": "Captain America: Civil War",
+            "description": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies."
+        },
+        "release_date": "27/04/2016",
+        "status": "Released"
+    },
+    {
+        "id": "28",
+        "name": "Battleship",
+        "tmdb_id": "44833",
+        "genre": "Thriller;Action;Adventure;Science_Fiction",
+        "rating": 5.5,
+        "budget": 209000000,
+        "actual_budget": 209000000,
+        "revenue": 303025485,
+        "script": {
+            "id": "28",
+            "name": "Battleship",
+            "description": "When mankind beams a radio signal into space, a reply comes from ‚ÄòPlanet G‚Äô, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential his brother, and his fianc√©e's father, Admiral Shane, expect of him."
+        },
+        "release_date": "11/04/2012",
+        "status": "Released"
+    },
+    {
+        "id": "29",
+        "name": "Jurassic World",
+        "tmdb_id": "135397",
+        "genre": "Action;Adventure;Science_Fiction;Thriller",
+        "rating": 6.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 1513528810,
+        "script": {
+            "id": "29",
+            "name": "Jurassic World",
+            "description": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond."
+        },
+        "release_date": "09/06/2015",
+        "status": "Released"
+    },
+    {
+        "id": "30",
+        "name": "Skyfall",
+        "tmdb_id": "37724",
+        "genre": "Action;Adventure;Thriller",
+        "rating": 6.9,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 1108561013,
+        "script": {
+            "id": "30",
+            "name": "Skyfall",
+            "description": "When Bond's latest assignment goes gravely wrong and agents around the world are exposed, MI6 is attacked forcing M to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory, the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows - aided only by field agent, Eve - following a trail to the mysterious Silva, whose lethal and hidden motives have yet to reveal themselves."
+        },
+        "release_date": "25/10/2012",
+        "status": "Released"
+    },
+    {
+        "id": "31",
+        "name": "Spider-Man 2",
+        "tmdb_id": "558",
+        "genre": "Action;Adventure;Fantasy",
+        "rating": 6.7,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 783766341,
+        "script": {
+            "id": "31",
+            "name": "Spider-Man 2",
+            "description": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood."
+        },
+        "release_date": "25/06/2004",
+        "status": "Released"
+    },
+    {
+        "id": "32",
+        "name": "Iron Man 3",
+        "tmdb_id": "68721",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 6.8,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 1215439994,
+        "script": {
+            "id": "32",
+            "name": "Iron Man 3",
+            "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+        },
+        "release_date": "18/04/2013",
+        "status": "Released"
+    },
+    {
+        "id": "33",
+        "name": "Alice in Wonderland",
+        "tmdb_id": "12155",
+        "genre": "Family;Fantasy;Adventure",
+        "rating": 6.4,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 1025491110,
+        "script": {
+            "id": "33",
+            "name": "Alice in Wonderland",
+            "description": "Alice, an unpretentious and individual 19-year-old, is betrothed to a dunce of an English nobleman. At her engagement party, she escapes the crowd to consider whether to go through with the marriage and falls down a hole in the garden after spotting an unusual rabbit. Arriving in a strange and surreal place called 'Underland,' she finds herself in a world that resembles the nightmares she had as a child, filled with talking animals, villainous queens and knights, and frumious bandersnatches. Alice realizes that she is there for a reason ‚Äì to conquer the horrific Jabberwocky and restore the rightful queen to her throne."
+        },
+        "release_date": "03/03/2010",
+        "status": "Released"
+    },
+    {
+        "id": "34",
+        "name": "X-Men: The Last Stand",
+        "tmdb_id": "36668",
+        "genre": "Adventure;Action;Science_Fiction;Thriller",
+        "rating": 6.3,
+        "budget": 210000000,
+        "actual_budget": 210000000,
+        "revenue": 459359555,
+        "script": {
+            "id": "34",
+            "name": "X-Men: The Last Stand",
+            "description": "When a cure is found to treat mutations, lines are drawn amongst the X-Men and The Brotherhood, a band of powerful mutants organized under Xavier's former ally, Magneto."
+        },
+        "release_date": "24/05/2006",
+        "status": "Released"
+    },
+    {
+        "id": "35",
+        "name": "Monsters University",
+        "tmdb_id": "62211",
+        "genre": "Animation;Family",
+        "rating": 7.0,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 743559607,
+        "script": {
+            "id": "35",
+            "name": "Monsters University",
+            "description": "A look at the relationship between Mike and Sulley during their days at Monsters University ‚Äî when they weren't necessarily the best of friends."
+        },
+        "release_date": "20/06/2013",
+        "status": "Released"
+    },
+    {
+        "id": "36",
+        "name": "Transformers: Revenge of the Fallen",
+        "tmdb_id": "8373",
+        "genre": "Science_Fiction;Action;Adventure",
+        "rating": 6.0,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 836297228,
+        "script": {
+            "id": "36",
+            "name": "Transformers: Revenge of the Fallen",
+            "description": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war."
+        },
+        "release_date": "19/06/2009",
+        "status": "Released"
+    },
+    {
+        "id": "37",
+        "name": "Transformers: Age of Extinction",
+        "tmdb_id": "91314",
+        "genre": "Science_Fiction;Action;Adventure",
+        "rating": 5.8,
+        "budget": 210000000,
+        "actual_budget": 210000000,
+        "revenue": 1091405097,
+        "script": {
+            "id": "37",
+            "name": "Transformers: Age of Extinction",
+            "description": "As humanity picks up the pieces, following the conclusion of \"Transformers: Dark of the Moon,\" Autobots and Decepticons have all but vanished from the face of the planet. However, a group of powerful, ingenious businessman and scientists attempt to learn from past Transformer incursions and push the boundaries of technology beyond what they can control - all while an ancient, powerful Transformer menace sets Earth in his cross-hairs."
+        },
+        "release_date": "25/06/2014",
+        "status": "Released"
+    },
+    {
+        "id": "38",
+        "name": "Oz: The Great and Powerful",
+        "tmdb_id": "68728",
+        "genre": "Fantasy;Adventure;Family",
+        "rating": 5.7,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 491868548,
+        "script": {
+            "id": "38",
+            "name": "Oz: The Great and Powerful",
+            "description": "Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil."
+        },
+        "release_date": "07/03/2013",
+        "status": "Released"
+    },
+    {
+        "id": "39",
+        "name": "The Amazing Spider-Man 2",
+        "tmdb_id": "102382",
+        "genre": "Action;Adventure;Fantasy",
+        "rating": 6.5,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 705717432,
+        "script": {
+            "id": "39",
+            "name": "The Amazing Spider-Man 2",
+            "description": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen‚Äôs father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past."
+        },
+        "release_date": "16/04/2014",
+        "status": "Released"
+    },
+    {
+        "id": "40",
+        "name": "TRON: Legacy",
+        "tmdb_id": "20526",
+        "genre": "Adventure;Action;Science_Fiction",
+        "rating": 6.3,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 400062763,
+        "script": {
+            "id": "40",
+            "name": "TRON: Legacy",
+            "description": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world."
+        },
+        "release_date": "10/12/2010",
+        "status": "Released"
+    },
+    {
+        "id": "41",
+        "name": "Cars 2",
+        "tmdb_id": "49013",
+        "genre": "Animation;Family;Adventure;Comedy",
+        "rating": 5.8,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 559852396,
+        "script": {
+            "id": "41",
+            "name": "Cars 2",
+            "description": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage."
+        },
+        "release_date": "11/06/2011",
+        "status": "Released"
+    },
+    {
+        "id": "42",
+        "name": "Green Lantern",
+        "tmdb_id": "44912",
+        "genre": "Adventure;Action;Thriller;Science_Fiction",
+        "rating": 5.1,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 219851172,
+        "script": {
+            "id": "42",
+            "name": "Green Lantern",
+            "description": "For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited."
+        },
+        "release_date": "16/06/2011",
+        "status": "Released"
+    },
+    {
+        "id": "43",
+        "name": "Toy Story 3",
+        "tmdb_id": "10193",
+        "genre": "Animation;Family;Comedy",
+        "rating": 7.6,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 1066969703,
+        "script": {
+            "id": "43",
+            "name": "Toy Story 3",
+            "description": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy."
+        },
+        "release_date": "16/06/2010",
+        "status": "Released"
+    },
+    {
+        "id": "44",
+        "name": "Terminator Salvation",
+        "tmdb_id": "534",
+        "genre": "Action;Science_Fiction;Thriller",
+        "rating": 5.9,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 371353001,
+        "script": {
+            "id": "44",
+            "name": "Terminator Salvation",
+            "description": "All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe."
+        },
+        "release_date": "20/05/2009",
+        "status": "Released"
+    },
+    {
+        "id": "45",
+        "name": "Furious 7",
+        "tmdb_id": "168259",
+        "genre": "Action",
+        "rating": 7.3,
+        "budget": 190000000,
+        "actual_budget": 190000000,
+        "revenue": 1506249360,
+        "script": {
+            "id": "45",
+            "name": "Furious 7",
+            "description": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother."
+        },
+        "release_date": "01/04/2015",
+        "status": "Released"
+    },
+    {
+        "id": "46",
+        "name": "World War Z",
+        "tmdb_id": "72190",
+        "genre": "Action;Drama;Horror;Science_Fiction;Thriller",
+        "rating": 6.7,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 531865000,
+        "script": {
+            "id": "46",
+            "name": "World War Z",
+            "description": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls."
+        },
+        "release_date": "20/06/2013",
+        "status": "Released"
+    },
+    {
+        "id": "47",
+        "name": "X-Men: Days of Future Past",
+        "tmdb_id": "127585",
+        "genre": "Action;Adventure;Fantasy;Science_Fiction",
+        "rating": 7.5,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 747862775,
+        "script": {
+            "id": "47",
+            "name": "X-Men: Days of Future Past",
+            "description": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past ‚Äì to save our future."
+        },
+        "release_date": "15/05/2014",
+        "status": "Released"
+    },
+    {
+        "id": "48",
+        "name": "Star Trek Into Darkness",
+        "tmdb_id": "54138",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 7.4,
+        "budget": 190000000,
+        "actual_budget": 190000000,
+        "revenue": 467365246,
+        "script": {
+            "id": "48",
+            "name": "Star Trek Into Darkness",
+            "description": "When the crew of the Enterprise is called back home, they find an unstoppable force of terror from within their own organization has detonated the fleet and everything it stands for, leaving our world in a state of crisis.  With a personal score to settle, Captain Kirk leads a manhunt to a war-zone world to capture a one man weapon of mass destruction. As our heroes are propelled into an epic chess game of life and death, love will be challenged, friendships will be torn apart, and sacrifices must be made for the only family Kirk has left: his crew."
+        },
+        "release_date": "05/05/2013",
+        "status": "Released"
+    },
+    {
+        "id": "49",
+        "name": "Jack the Giant Slayer",
+        "tmdb_id": "81005",
+        "genre": "Action;Family;Fantasy",
+        "rating": 5.5,
+        "budget": 195000000,
+        "actual_budget": 195000000,
+        "revenue": 197687603,
+        "script": {
+            "id": "49",
+            "name": "Jack the Giant Slayer",
+            "description": "The story of an ancient war that is reignited when a young farmhand unwittingly opens a gateway between our world and a fearsome race of giants. Unleashed on the Earth for the first time in centuries, the giants strive to reclaim the land they once lost, forcing the young man, Jack into the battle of his life to stop them. Fighting for a kingdom, its people, and the love of a brave princess, he comes face to face with the unstoppable warriors he thought only existed in legend‚Äìand gets the chance to become a legend himself."
+        },
+        "release_date": "27/02/2013",
+        "status": "Released"
+    },
+    {
+        "id": "50",
+        "name": "The Great Gatsby",
+        "tmdb_id": "64682",
+        "genre": "Drama;Romance",
+        "rating": 7.3,
+        "budget": 105000000,
+        "actual_budget": 105000000,
+        "revenue": 351040419,
+        "script": {
+            "id": "50",
+            "name": "The Great Gatsby",
+            "description": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await."
+        },
+        "release_date": "10/05/2013",
+        "status": "Released"
+    },
+    {
+        "id": "51",
+        "name": "Prince of Persia: The Sands of Time",
+        "tmdb_id": "9543",
+        "genre": "Adventure;Fantasy;Action;Romance",
+        "rating": 6.2,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 335154643,
+        "script": {
+            "id": "51",
+            "name": "Prince of Persia: The Sands of Time",
+            "description": "A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time ‚Äì gift from the gods that can reverse time and allow its possessor to rule the world."
+        },
+        "release_date": "19/05/2010",
+        "status": "Released"
+    },
+    {
+        "id": "52",
+        "name": "Pacific Rim",
+        "tmdb_id": "68726",
+        "genre": "Action;Science_Fiction;Adventure",
+        "rating": 6.7,
+        "budget": 180000000,
+        "actual_budget": 180000000,
+        "revenue": 407602906,
+        "script": {
+            "id": "52",
+            "name": "Pacific Rim",
+            "description": "When legions of monstrous creatures, known as Kaiju, started rising from the sea, a war began that would take millions of lives and consume humanity's resources for years on end. To combat the giant Kaiju, a special type of weapon was devised: massive robots, called Jaegers, which are controlled simultaneously by two pilots whose minds are locked in a neural bridge. But even the Jaegers are proving nearly defenseless in the face of the relentless Kaiju. On the verge of defeat, the forces defending mankind have no choice but to turn to two unlikely heroes‚Äîa washed-up former pilot (Charlie Hunnam) and an untested trainee (Rinko Kikuchi)‚Äîwho are teamed to drive a legendary but seemingly obsolete Jaeger from the past. Together, they stand as mankind's last hope against the mounting apocalypse."
+        },
+        "release_date": "11/07/2013",
+        "status": "Released"
+    },
+    {
+        "id": "53",
+        "name": "Transformers: Dark of the Moon",
+        "tmdb_id": "38356",
+        "genre": "Action;Science_Fiction;Adventure",
+        "rating": 6.1,
+        "budget": 195000000,
+        "actual_budget": 195000000,
+        "revenue": 1123746996,
+        "script": {
+            "id": "53",
+            "name": "Transformers: Dark of the Moon",
+            "description": "Sam Witwicky takes his first tenuous steps into adulthood while remaining a reluctant human ally of Autobot-leader Optimus Prime. The film centers around the space race between the USSR and the USA, suggesting there was a hidden Transformers role in it all that remains one of the planet's most dangerous secrets."
+        },
+        "release_date": "28/06/2011",
+        "status": "Released"
+    },
+    {
+        "id": "54",
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "tmdb_id": "217",
+        "genre": "Adventure;Action",
+        "rating": 5.7,
+        "budget": 185000000,
+        "actual_budget": 185000000,
+        "revenue": 786636033,
+        "script": {
+            "id": "54",
+            "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+            "description": "Set during the Cold War, the Soviets ‚Äì led by sword-wielding Irina Spalko ‚Äì are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend ‚Äì and Indy's colleague ‚Äì Professor Oxley has been captured for his knowledge of the skull's whereabouts."
+        },
+        "release_date": "21/05/2008",
+        "status": "Released"
+    },
+    {
+        "id": "55",
+        "name": "The Good Dinosaur",
+        "tmdb_id": "105864",
+        "genre": "Adventure;Animation;Family",
+        "rating": 6.6,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 331926147,
+        "script": {
+            "id": "55",
+            "name": "The Good Dinosaur",
+            "description": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend."
+        },
+        "release_date": "14/11/2015",
+        "status": "Released"
+    },
+    {
+        "id": "56",
+        "name": "Brave",
+        "tmdb_id": "62177",
+        "genre": "Animation;Adventure;Comedy;Family;Action;Fantasy",
+        "rating": 6.7,
+        "budget": 185000000,
+        "actual_budget": 185000000,
+        "revenue": 538983207,
+        "script": {
+            "id": "56",
+            "name": "Brave",
+            "description": "Brave is set in the mystical Scottish Highlands, where M√©rida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, M√©rida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, M√©rida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into M√©rida‚Äôs quest ‚Äî and serving as comic relief ‚Äî are the kingdom‚Äôs three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall."
+        },
+        "release_date": "21/06/2012",
+        "status": "Released"
+    },
+    {
+        "id": "57",
+        "name": "Star Trek Beyond",
+        "tmdb_id": "188927",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 6.6,
+        "budget": 185000000,
+        "actual_budget": 185000000,
+        "revenue": 343471816,
+        "script": {
+            "id": "57",
+            "name": "Star Trek Beyond",
+            "description": "The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a mysterious new enemy who puts them and everything the Federation stands for to the test."
+        },
+        "release_date": "07/07/2016",
+        "status": "Released"
+    },
+    {
+        "id": "58",
+        "name": "WALL¬∑E",
+        "tmdb_id": "10681",
+        "genre": "Animation;Family",
+        "rating": 7.8,
+        "budget": 180000000,
+        "actual_budget": 180000000,
+        "revenue": 521311860,
+        "script": {
+            "id": "58",
+            "name": "WALL¬∑E",
+            "description": "WALL¬∑E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL¬∑E thinks he's finally found a friend and stows away on the ship when it leaves."
+        },
+        "release_date": "22/06/2008",
+        "status": "Released"
+    },
+    {
+        "id": "59",
+        "name": "Rush Hour 3",
+        "tmdb_id": "5174",
+        "genre": "Action;Comedy;Crime;Thriller",
+        "rating": 6.1,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 258022233,
+        "script": {
+            "id": "59",
+            "name": "Rush Hour 3",
+            "description": "After an attempted assassination on Ambassador Han, Inspector Lee and Detective Carter are back in action as they head to Paris to protect a French woman with knowledge of the Triads' secret leaders. Lee also holds secret meetings with a United Nations authority, but his personal struggles with a Chinese criminal mastermind named Kenji, which reveals that it's Lee's long-lost...brother."
+        },
+        "release_date": "08/08/2007",
+        "status": "Released"
+    },
+    {
+        "id": "60",
+        "name": "2012",
+        "tmdb_id": "14161",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 5.6,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 769653595,
+        "script": {
+            "id": "60",
+            "name": "2012",
+            "description": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world."
+        },
+        "release_date": "10/10/2009",
+        "status": "Released"
+    },
+    {
+        "id": "61",
+        "name": "A Christmas Carol",
+        "tmdb_id": "17979",
+        "genre": "Animation;Drama",
+        "rating": 6.6,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 325233863,
+        "script": {
+            "id": "61",
+            "name": "A Christmas Carol",
+            "description": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption."
+        },
+        "release_date": "04/11/2009",
+        "status": "Released"
+    },
+    {
+        "id": "62",
+        "name": "Jupiter Ascending",
+        "tmdb_id": "76757",
+        "genre": "Science_Fiction;Fantasy;Action;Adventure",
+        "rating": 5.2,
+        "budget": 176000003,
+        "actual_budget": 176000003,
+        "revenue": 183987723,
+        "script": {
+            "id": "62",
+            "name": "Jupiter Ascending",
+            "description": "In a universe where human genetic material is the most precious commodity, an impoverished young Earth woman becomes the key to strategic maneuvers and internal strife within a powerful dynasty‚Ä¶"
+        },
+        "release_date": "04/02/2015",
+        "status": "Released"
+    },
+    {
+        "id": "63",
+        "name": "The Legend of Tarzan",
+        "tmdb_id": "258489",
+        "genre": "Action;Adventure",
+        "rating": 5.5,
+        "budget": 180000000,
+        "actual_budget": 180000000,
+        "revenue": 356743061,
+        "script": {
+            "id": "63",
+            "name": "The Legend of Tarzan",
+            "description": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment."
+        },
+        "release_date": "29/06/2016",
+        "status": "Released"
+    },
+    {
+        "id": "64",
+        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "tmdb_id": "411",
+        "genre": "Adventure;Family;Fantasy",
+        "rating": 6.7,
+        "budget": 180000000,
+        "actual_budget": 180000000,
+        "revenue": 748806957,
+        "script": {
+            "id": "64",
+            "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "description": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, the they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever."
+        },
+        "release_date": "07/12/2005",
+        "status": "Released"
+    },
+    {
+        "id": "65",
+        "name": "X-Men: Apocalypse",
+        "tmdb_id": "246655",
+        "genre": "Science_Fiction",
+        "rating": 6.4,
+        "budget": 178000000,
+        "actual_budget": 178000000,
+        "revenue": 543934787,
+        "script": {
+            "id": "65",
+            "name": "X-Men: Apocalypse",
+            "description": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan."
+        },
+        "release_date": "18/05/2016",
+        "status": "Released"
+    },
+    {
+        "id": "66",
+        "name": "The Dark Knight",
+        "tmdb_id": "155",
+        "genre": "Drama;Action;Crime;Thriller",
+        "rating": 8.2,
+        "budget": 185000000,
+        "actual_budget": 185000000,
+        "revenue": 1004558444,
+        "script": {
+            "id": "66",
+            "name": "The Dark Knight",
+            "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker."
+        },
+        "release_date": "16/07/2008",
+        "status": "Released"
+    },
+    {
+        "id": "67",
+        "name": "Up",
+        "tmdb_id": "14160",
+        "genre": "Animation;Comedy;Family;Adventure",
+        "rating": 7.7,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 735099082,
+        "script": {
+            "id": "67",
+            "name": "Up",
+            "description": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life."
+        },
+        "release_date": "13/05/2009",
+        "status": "Released"
+    },
+    {
+        "id": "68",
+        "name": "Monsters vs Aliens",
+        "tmdb_id": "15512",
+        "genre": "Animation;Family;Adventure;Science_Fiction",
+        "rating": 6.0,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 381509870,
+        "script": {
+            "id": "68",
+            "name": "Monsters vs Aliens",
+            "description": "When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters..."
+        },
+        "release_date": "19/03/2009",
+        "status": "Released"
+    },
+    {
+        "id": "69",
+        "name": "Iron Man",
+        "tmdb_id": "1726",
+        "genre": "Action;Science_Fiction;Adventure",
+        "rating": 7.4,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 585174222,
+        "script": {
+            "id": "69",
+            "name": "Iron Man",
+            "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+        },
+        "release_date": "30/04/2008",
+        "status": "Released"
+    },
+    {
+        "id": "70",
+        "name": "Hugo",
+        "tmdb_id": "44826",
+        "genre": "Adventure;Drama;Family",
+        "rating": 7.0,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 185770160,
+        "script": {
+            "id": "70",
+            "name": "Hugo",
+            "description": "Hugo is an orphan boy living in the walls of a train station in 1930s Paris. He learned to fix clocks and other gadgets from his father and uncle which he puts to use keeping the train station clocks running. The only thing that he has left that connects him to his dead father is an automaton (mechanical man) that doesn't work without a special key which Hugo needs to find to unlock the secret he believes it contains. On his adventures, he meets with a shopkeeper, George Melies, who works in the train station and his adventure-seeking god-daughter. Hugo finds that they have a surprising connection to his father and the automaton, and he discovers it unlocks some memories the old man has buried inside regarding his past."
+        },
+        "release_date": "22/11/2011",
+        "status": "Released"
+    },
+    {
+        "id": "71",
+        "name": "Wild Wild West",
+        "tmdb_id": "8487",
+        "genre": "Action;Adventure;Comedy;Science_Fiction;Western",
+        "rating": 5.1,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 222104681,
+        "script": {
+            "id": "71",
+            "name": "Wild Wild West",
+            "description": "Legless Southern inventor Dr. Arliss Loveless plans to rekindle the Civil War by assassinating President U.S. Grant. Only two men can stop him: gunfighter James West and master-of-disguise and inventor Artemus Gordon. The two must team up to thwart Loveless' plans."
+        },
+        "release_date": "29/06/1999",
+        "status": "Released"
+    },
+    {
+        "id": "72",
+        "name": "The Mummy: Tomb of the Dragon Emperor",
+        "tmdb_id": "1735",
+        "genre": "Adventure;Action;Fantasy",
+        "rating": 5.2,
+        "budget": 145000000,
+        "actual_budget": 145000000,
+        "revenue": 401128639,
+        "script": {
+            "id": "72",
+            "name": "The Mummy: Tomb of the Dragon Emperor",
+            "description": "Archaeologist Rick O'Connell travels to China, pitting him against an emperor from the 2,000-year-old Han dynasty who's returned from the dead to pursue a quest for world domination. This time, O'Connell enlists the help of his wife and son to quash the so-called 'Dragon Emperor' and his abuse of supernatural power."
+        },
+        "release_date": "01/07/2008",
+        "status": "Released"
+    },
+    {
+        "id": "73",
+        "name": "Suicide Squad",
+        "tmdb_id": "297761",
+        "genre": "Action;Adventure;Crime;Fantasy;Science_Fiction",
+        "rating": 5.9,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 745000000,
+        "script": {
+            "id": "73",
+            "name": "Suicide Squad",
+            "description": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences."
+        },
+        "release_date": "02/08/2016",
+        "status": "Released"
+    },
+    {
+        "id": "74",
+        "name": "Evan Almighty",
+        "tmdb_id": "2698",
+        "genre": "Fantasy;Comedy;Family",
+        "rating": 5.3,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 173000000,
+        "script": {
+            "id": "74",
+            "name": "Evan Almighty",
+            "description": "God contacts Congressman Evan Baxter and tells him to build an ark in preparation for a great flood."
+        },
+        "release_date": "09/06/2007",
+        "status": "Released"
+    },
+    {
+        "id": "75",
+        "name": "Edge of Tomorrow",
+        "tmdb_id": "137113",
+        "genre": "Action;Science_Fiction",
+        "rating": 7.6,
+        "budget": 178000000,
+        "actual_budget": 178000000,
+        "revenue": 370541256,
+        "script": {
+            "id": "75",
+            "name": "Edge of Tomorrow",
+            "description": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop."
+        },
+        "release_date": "27/05/2014",
+        "status": "Released"
+    },
+    {
+        "id": "76",
+        "name": "Waterworld",
+        "tmdb_id": "9804",
+        "genre": "Adventure;Action",
+        "rating": 5.9,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 264218220,
+        "script": {
+            "id": "76",
+            "name": "Waterworld",
+            "description": "In a futuristic world where the polar ice caps have melted and made Earth a liquid planet, a beautiful barmaid rescues a mutant seafarer from a floating island prison. They escape, along with her young charge, Enola, and sail off aboard his ship. But the trio soon becomes the target of a menacing pirate who covets the map to 'Dryland' ‚Äì which is tattooed on Enola's back."
+        },
+        "release_date": "28/07/1995",
+        "status": "Released"
+    },
+    {
+        "id": "77",
+        "name": "G.I. Joe: The Rise of Cobra",
+        "tmdb_id": "14869",
+        "genre": "Adventure;Action;Thriller;Science_Fiction",
+        "rating": 5.6,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 302469017,
+        "script": {
+            "id": "77",
+            "name": "G.I. Joe: The Rise of Cobra",
+            "description": "From the Egyptian desert to deep below the polar ice caps, the elite G.I. JOE team uses the latest in next-generation spy and military equipment to fight the corrupt arms dealer Destro and the growing threat of the mysterious Cobra organization to prevent them from plunging the world into chaos."
+        },
+        "release_date": "04/08/2009",
+        "status": "Released"
+    },
+    {
+        "id": "78",
+        "name": "Inside Out",
+        "tmdb_id": "150540",
+        "genre": "Drama;Comedy;Animation;Family",
+        "rating": 8.0,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 857611174,
+        "script": {
+            "id": "78",
+            "name": "Inside Out",
+            "description": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school."
+        },
+        "release_date": "09/06/2015",
+        "status": "Released"
+    },
+    {
+        "id": "79",
+        "name": "The Jungle Book",
+        "tmdb_id": "278927",
+        "genre": "Family;Adventure;Drama;Fantasy",
+        "rating": 6.7,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 966550600,
+        "script": {
+            "id": "79",
+            "name": "The Jungle Book",
+            "description": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther, Bagheera, and free spirited bear, Baloo."
+        },
+        "release_date": "07/04/2016",
+        "status": "Released"
+    },
+    {
+        "id": "80",
+        "name": "Iron Man 2",
+        "tmdb_id": "10138",
+        "genre": "Adventure;Action;Science_Fiction",
+        "rating": 6.6,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 623933331,
+        "script": {
+            "id": "80",
+            "name": "Iron Man 2",
+            "description": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances ‚Äì and confront powerful enemies."
+        },
+        "release_date": "28/04/2010",
+        "status": "Released"
+    },
+    {
+        "id": "81",
+        "name": "Snow White and the Huntsman",
+        "tmdb_id": "58595",
+        "genre": "Adventure;Fantasy;Drama",
+        "rating": 5.8,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 396600000,
+        "script": {
+            "id": "81",
+            "name": "Snow White and the Huntsman",
+            "description": "After the Evil Queen marries the King, she performs a violent coup in which the King is murdered and his daughter, Snow White, is taken captive. Almost a decade later, a grown Snow White is still in the clutches of the Queen. In order to obtain immortality, The Evil Queen needs the heart of Snow White. After Snow escapes the castle, the Queen sends the Huntsman to find her in the Dark Forest."
+        },
+        "release_date": "30/05/2012",
+        "status": "Released"
+    },
+    {
+        "id": "82",
+        "name": "Maleficent",
+        "tmdb_id": "102651",
+        "genre": "Fantasy;Adventure;Action;Family;Romance",
+        "rating": 7.0,
+        "budget": 180000000,
+        "actual_budget": 180000000,
+        "revenue": 758539785,
+        "script": {
+            "id": "82",
+            "name": "Maleficent",
+            "description": "The untold story of Disney's most iconic villain from the 1959 classic 'Sleeping Beauty'. A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land.  Maleficent rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal ‚Äì an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom - and to Maleficent's true happiness as well."
+        },
+        "release_date": "28/05/2014",
+        "status": "Released"
+    },
+    {
+        "id": "83",
+        "name": "Dawn of the Planet of the Apes",
+        "tmdb_id": "119450",
+        "genre": "Science_Fiction;Action;Drama;Thriller",
+        "rating": 7.3,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 710644566,
+        "script": {
+            "id": "83",
+            "name": "Dawn of the Planet of the Apes",
+            "description": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes."
+        },
+        "release_date": "26/06/2014",
+        "status": "Released"
+    },
+    {
+        "id": "84",
+        "name": "The Lovers",
+        "tmdb_id": "79698",
+        "genre": "Action;Adventure;Science_Fiction;Romance",
+        "rating": 4.8,
+        "budget": 27000000,
+        "actual_budget": 27000000,
+        "revenue": 0,
+        "script": {
+            "id": "84",
+            "name": "The Lovers",
+            "description": "The Lovers is an epic romance time travel adventure film. Helmed by Roland Joff√© from a story by Ajey Jhankar, the film is a sweeping tale of an impossible love set against the backdrop of the first Anglo-Maratha war across two time periods and continents and centred around four characters ‚Äî a British officer in 18th century colonial India, the Indian woman he falls deeply in love with, an American present-day marine biologist and his wife."
+        },
+        "release_date": "13/02/2015",
+        "status": "Released"
+    },
+    {
+        "id": "85",
+        "name": "47 Ronin",
+        "tmdb_id": "64686",
+        "genre": "Drama;Action;Adventure;Fantasy",
+        "rating": 5.9,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 150962475,
+        "script": {
+            "id": "85",
+            "name": "47 Ronin",
+            "description": "Based on the original 1941 movie from Japan, and from ancient Japan‚Äôs most enduring tale, the epic 3D fantasy-adventure 47 Ronin is born.  Keanu Reeves leads the cast as Kai, an outcast who joins Oishi (Hiroyuki Sanada), the leader of the 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honor to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors."
+        },
+        "release_date": "06/12/2013",
+        "status": "Released"
+    },
+    {
+        "id": "86",
+        "name": "Captain America: The Winter Soldier",
+        "tmdb_id": "100402",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 7.6,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 714766572,
+        "script": {
+            "id": "86",
+            "name": "Captain America: The Winter Soldier",
+            "description": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy‚Äîthe Winter Soldier."
+        },
+        "release_date": "20/03/2014",
+        "status": "Released"
+    },
+    {
+        "id": "87",
+        "name": "Shrek Forever After",
+        "tmdb_id": "10192",
+        "genre": "Comedy;Adventure;Fantasy;Animation;Family",
+        "rating": 6.0,
+        "budget": 165000000,
+        "actual_budget": 165000000,
+        "revenue": 752600867,
+        "script": {
+            "id": "87",
+            "name": "Shrek Forever After",
+            "description": "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away‚Äîwhere Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met‚Äîhe sets out to restore his world and reclaim his true love."
+        },
+        "release_date": "16/05/2010",
+        "status": "Released"
+    },
+    {
+        "id": "88",
+        "name": "Tomorrowland",
+        "tmdb_id": "158852",
+        "genre": "Adventure;Family;Mystery;Science_Fiction",
+        "rating": 6.2,
+        "budget": 190000000,
+        "actual_budget": 190000000,
+        "revenue": 209154322,
+        "script": {
+            "id": "88",
+            "name": "Tomorrowland",
+            "description": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as \"Tomorrowland.\""
+        },
+        "release_date": "19/05/2015",
+        "status": "Released"
+    },
+    {
+        "id": "89",
+        "name": "Big Hero 6",
+        "tmdb_id": "177572",
+        "genre": "Adventure;Family;Animation;Action;Comedy",
+        "rating": 7.8,
+        "budget": 165000000,
+        "actual_budget": 165000000,
+        "revenue": 652105443,
+        "script": {
+            "id": "89",
+            "name": "Big Hero 6",
+            "description": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes."
+        },
+        "release_date": "24/10/2014",
+        "status": "Released"
+    },
+    {
+        "id": "90",
+        "name": "Wreck-It Ralph",
+        "tmdb_id": "82690",
+        "genre": "Family;Animation;Comedy;Adventure",
+        "rating": 7.1,
+        "budget": 165000000,
+        "actual_budget": 165000000,
+        "revenue": 471222889,
+        "script": {
+            "id": "90",
+            "name": "Wreck-It Ralph",
+            "description": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started."
+        },
+        "release_date": "01/11/2012",
+        "status": "Released"
+    },
+    {
+        "id": "91",
+        "name": "The Polar Express",
+        "tmdb_id": "5255",
+        "genre": "Adventure;Animation;Family;Fantasy",
+        "rating": 6.4,
+        "budget": 165000000,
+        "actual_budget": 165000000,
+        "revenue": 305875730,
+        "script": {
+            "id": "91",
+            "name": "The Polar Express",
+            "description": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."
+        },
+        "release_date": "10/11/2004",
+        "status": "Released"
+    },
+    {
+        "id": "92",
+        "name": "Independence Day: Resurgence",
+        "tmdb_id": "47933",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 4.9,
+        "budget": 165000000,
+        "actual_budget": 165000000,
+        "revenue": 389681935,
+        "script": {
+            "id": "92",
+            "name": "Independence Day: Resurgence",
+            "description": "We always knew they were coming back. Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet. But nothing can prepare us for the aliens‚Äô advanced and unprecedented force. Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction."
+        },
+        "release_date": "22/06/2016",
+        "status": "Released"
+    },
+    {
+        "id": "93",
+        "name": "How to Train Your Dragon",
+        "tmdb_id": "10191",
+        "genre": "Fantasy;Adventure;Animation;Family",
+        "rating": 7.5,
+        "budget": 165000000,
+        "actual_budget": 165000000,
+        "revenue": 494878759,
+        "script": {
+            "id": "93",
+            "name": "How to Train Your Dragon",
+            "description": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast ‚Äì which he names Toothless ‚Äì much to the chagrin of his warrior father"
+        },
+        "release_date": "05/03/2010",
+        "status": "Released"
+    },
+    {
+        "id": "94",
+        "name": "Terminator 3: Rise of the Machines",
+        "tmdb_id": "296",
+        "genre": "Action;Thriller;Science_Fiction",
+        "rating": 5.9,
+        "budget": 200000000,
+        "actual_budget": 200000000,
+        "revenue": 435000000,
+        "script": {
+            "id": "94",
+            "name": "Terminator 3: Rise of the Machines",
+            "description": "It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor ‚Ä¶ just like he promised."
+        },
+        "release_date": "02/07/2003",
+        "status": "Released"
+    },
+    {
+        "id": "95",
+        "name": "Guardians of the Galaxy",
+        "tmdb_id": "118340",
+        "genre": "Action;Science_Fiction;Adventure",
+        "rating": 7.9,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 773328629,
+        "script": {
+            "id": "95",
+            "name": "Guardians of the Galaxy",
+            "description": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser."
+        },
+        "release_date": "30/07/2014",
+        "status": "Released"
+    },
+    {
+        "id": "96",
+        "name": "Interstellar",
+        "tmdb_id": "157336",
+        "genre": "Adventure;Drama;Science_Fiction",
+        "rating": 8.1,
+        "budget": 165000000,
+        "actual_budget": 165000000,
+        "revenue": 675120017,
+        "script": {
+            "id": "96",
+            "name": "Interstellar",
+            "description": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+        },
+        "release_date": "05/11/2014",
+        "status": "Released"
+    },
+    {
+        "id": "97",
+        "name": "Inception",
+        "tmdb_id": "27205",
+        "genre": "Action;Thriller;Science_Fiction;Mystery;Adventure",
+        "rating": 8.1,
+        "budget": 160000000,
+        "actual_budget": 160000000,
+        "revenue": 825532764,
+        "script": {
+            "id": "97",
+            "name": "Inception",
+            "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscios of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious"
+        },
+        "release_date": "14/07/2010",
+        "status": "Released"
+    },
+    {
+        "id": "98",
+        "name": "„Ç∑„É≥„Éª„Ç¥„Ç∏„É©",
+        "tmdb_id": "315011",
+        "genre": "Action;Adventure;Drama;Horror;Science_Fiction",
+        "rating": 6.5,
+        "budget": 15000000,
+        "actual_budget": 15000000,
+        "revenue": 77000000,
+        "script": {
+            "id": "98",
+            "name": "„Ç∑„É≥„Éª„Ç¥„Ç∏„É©",
+            "description": "From the mind behind Evangelion comes a hit larger than life.  When a massive, gilled monster emerges from the deep and tears through the city, the government scrambles to save its citizens.  A rag-tag team of volunteers cuts through a web of red tape to uncover the monster's weakness and its mysterious ties to a foreign superpower.  But time is not on their side - the greatest catastrophe to ever befall the world is about to evolve right before their very eyes."
+        },
+        "release_date": "29/07/2016",
+        "status": "Released"
+    },
+    {
+        "id": "99",
+        "name": "The Hobbit: An Unexpected Journey",
+        "tmdb_id": "49051",
+        "genre": "Adventure;Fantasy;Action",
+        "rating": 7.0,
+        "budget": 250000000,
+        "actual_budget": 250000000,
+        "revenue": 1021103568,
+        "script": {
+            "id": "99",
+            "name": "The Hobbit: An Unexpected Journey",
+            "description": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon."
+        },
+        "release_date": "26/11/2012",
+        "status": "Released"
+    },
+    {
+        "id": "100",
+        "name": "The Fast and the Furious",
+        "tmdb_id": "9799",
+        "genre": "Action;Crime;Thriller",
+        "rating": 6.6,
+        "budget": 38000000,
+        "actual_budget": 38000000,
+        "revenue": 207283925,
+        "script": {
+            "id": "100",
+            "name": "The Fast and the Furious",
+            "description": "Domenic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD."
+        },
+        "release_date": "22/06/2001",
+        "status": "Released"
+    },
+    {
+        "id": "101",
+        "name": "The Curious Case of Benjamin Button",
+        "tmdb_id": "4922",
+        "genre": "Fantasy;Drama;Thriller;Mystery;Romance",
+        "rating": 7.3,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 333932083,
+        "script": {
+            "id": "101",
+            "name": "The Curious Case of Benjamin Button",
+            "description": "Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences."
+        },
+        "release_date": "24/11/2008",
+        "status": "Released"
+    },
+    {
+        "id": "102",
+        "name": "X-Men: First Class",
+        "tmdb_id": "49538",
+        "genre": "Action;Science_Fiction;Adventure",
+        "rating": 7.1,
+        "budget": 160000000,
+        "actual_budget": 160000000,
+        "revenue": 353624124,
+        "script": {
+            "id": "102",
+            "name": "X-Men: First Class",
+            "description": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known."
+        },
+        "release_date": "24/05/2011",
+        "status": "Released"
+    },
+    {
+        "id": "103",
+        "name": "The Hunger Games: Mockingjay - Part 2",
+        "tmdb_id": "131634",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 6.6,
+        "budget": 160000000,
+        "actual_budget": 160000000,
+        "revenue": 653428261,
+        "script": {
+            "id": "103",
+            "name": "The Hunger Games: Mockingjay - Part 2",
+            "description": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends ‚Äì including Gale, Finnick, and Peeta ‚Äì Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games."
+        },
+        "release_date": "18/11/2015",
+        "status": "Released"
+    },
+    {
+        "id": "104",
+        "name": "The Sorcerer's Apprentice",
+        "tmdb_id": "27022",
+        "genre": "Fantasy;Adventure;Action;Comedy;Drama",
+        "rating": 5.8,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 215283742,
+        "script": {
+            "id": "104",
+            "name": "The Sorcerer's Apprentice",
+            "description": "Balthazar Blake is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis, Maxim Horvath. Balthazar can't do it alone, so he recruits Dave Stutler, a seemingly average guy who demonstrates hidden potential, as his reluctant prot√©g√©. The sorcerer gives his unwilling accomplice a crash course in the art and science of magic, and together, these unlikely partners work to stop the forces of darkness."
+        },
+        "release_date": "13/07/2010",
+        "status": "Released"
+    },
+    {
+        "id": "105",
+        "name": "Poseidon",
+        "tmdb_id": "503",
+        "genre": "Adventure;Action;Drama;Thriller",
+        "rating": 5.5,
+        "budget": 160000000,
+        "actual_budget": 160000000,
+        "revenue": 181674817,
+        "script": {
+            "id": "105",
+            "name": "Poseidon",
+            "description": "A packed cruise ship traveling the Atlantic is hit and overturned by a massive wave, compelling the passengers to begin a dramatic fight for their lives."
+        },
+        "release_date": "12/05/2006",
+        "status": "Released"
+    },
+    {
+        "id": "106",
+        "name": "Alice Through the Looking Glass",
+        "tmdb_id": "241259",
+        "genre": "Fantasy",
+        "rating": 6.5,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 299370084,
+        "script": {
+            "id": "106",
+            "name": "Alice Through the Looking Glass",
+            "description": "In the sequel to Tim Burton's \"Alice in Wonderland\", Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter."
+        },
+        "release_date": "25/05/2016",
+        "status": "Released"
+    },
+    {
+        "id": "107",
+        "name": "Shrek the Third",
+        "tmdb_id": "810",
+        "genre": "Fantasy;Adventure;Animation;Comedy;Family",
+        "rating": 6.0,
+        "budget": 160000000,
+        "actual_budget": 160000000,
+        "revenue": 798958165,
+        "script": {
+            "id": "107",
+            "name": "Shrek the Third",
+            "description": "The King of Far Far Away has died and Shrek and Fiona are to become King &amp; Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom."
+        },
+        "release_date": "17/05/2007",
+        "status": "Released"
+    },
+    {
+        "id": "108",
+        "name": "Warcraft",
+        "tmdb_id": "68735",
+        "genre": "Action;Adventure;Fantasy",
+        "rating": 6.3,
+        "budget": 160000000,
+        "actual_budget": 160000000,
+        "revenue": 433677183,
+        "script": {
+            "id": "108",
+            "name": "Warcraft",
+            "description": "The peaceful realm of Azeroth stands on the brink of war as its civilization faces a fearsome race of invaders: orc warriors fleeing their dying home to colonize another. As a portal opens to connect the two worlds, one army faces destruction and the other faces extinction. From opposing sides, two heroes are set on a collision course that will decide the fate of their family, their people, and their home."
+        },
+        "release_date": "25/05/2016",
+        "status": "Released"
+    },
+    {
+        "id": "109",
+        "name": "Terminator Genisys",
+        "tmdb_id": "87101",
+        "genre": "Science_Fiction;Action;Thriller;Adventure",
+        "rating": 5.8,
+        "budget": 155000000,
+        "actual_budget": 155000000,
+        "revenue": 440603537,
+        "script": {
+            "id": "109",
+            "name": "Terminator Genisys",
+            "description": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever."
+        },
+        "release_date": "23/06/2015",
+        "status": "Released"
+    },
+    {
+        "id": "110",
+        "name": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+        "tmdb_id": "10140",
+        "genre": "Adventure;Family;Fantasy",
+        "rating": 6.2,
+        "budget": 155000000,
+        "actual_budget": 155000000,
+        "revenue": 415686217,
+        "script": {
+            "id": "110",
+            "name": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+            "description": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world."
+        },
+        "release_date": "13/08/2010",
+        "status": "Released"
+    },
+    {
+        "id": "111",
+        "name": "Pearl Harbor",
+        "tmdb_id": "676",
+        "genre": "History;Romance;War",
+        "rating": 6.6,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 449220945,
+        "script": {
+            "id": "111",
+            "name": "Pearl Harbor",
+            "description": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941."
+        },
+        "release_date": "21/05/2001",
+        "status": "Released"
+    },
+    {
+        "id": "112",
+        "name": "Transformers",
+        "tmdb_id": "1858",
+        "genre": "Adventure;Science_Fiction;Action",
+        "rating": 6.6,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 709709780,
+        "script": {
+            "id": "112",
+            "name": "Transformers",
+            "description": "Young teenager, Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots ‚Äì the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it."
+        },
+        "release_date": "27/06/2007",
+        "status": "Released"
+    },
+    {
+        "id": "113",
+        "name": "Alexander",
+        "tmdb_id": "1966",
+        "genre": "War;History;Action;Adventure;Drama;Romance",
+        "rating": 5.6,
+        "budget": 155000000,
+        "actual_budget": 155000000,
+        "revenue": 167298192,
+        "script": {
+            "id": "113",
+            "name": "Alexander",
+            "description": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India."
+        },
+        "release_date": "21/11/2004",
+        "status": "Released"
+    },
+    {
+        "id": "114",
+        "name": "Harry Potter and the Order of the Phoenix",
+        "tmdb_id": "675",
+        "genre": "Adventure;Fantasy;Family;Mystery",
+        "rating": 7.4,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 938212738,
+        "script": {
+            "id": "114",
+            "name": "Harry Potter and the Order of the Phoenix",
+            "description": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students ‚Äì dubbed 'Dumbledore's Army' ‚Äì to defend themselves against the dark arts."
+        },
+        "release_date": "28/06/2007",
+        "status": "Released"
+    },
+    {
+        "id": "115",
+        "name": "Harry Potter and the Goblet of Fire",
+        "tmdb_id": "674",
+        "genre": "Adventure;Fantasy;Family",
+        "rating": 7.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 895921036,
+        "script": {
+            "id": "115",
+            "name": "Harry Potter and the Goblet of Fire",
+            "description": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure ‚Äì but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for."
+        },
+        "release_date": "05/11/2005",
+        "status": "Released"
+    },
+    {
+        "id": "116",
+        "name": "Hancock",
+        "tmdb_id": "8960",
+        "genre": "Fantasy;Action",
+        "rating": 6.2,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 624029371,
+        "script": {
+            "id": "116",
+            "name": "Hancock",
+            "description": "Hancock is a down-and-out superhero who's forced to employ a PR expert to help repair his image when the public grows weary of all the damage he's inflicted during his lifesaving heroics. The agent's idea of imprisoning the antihero to make the world miss him proves successful, but will Hancock stick to his new sense of purpose or slip back into old habits?"
+        },
+        "release_date": "01/07/2008",
+        "status": "Released"
+    },
+    {
+        "id": "117",
+        "name": "I Am Legend",
+        "tmdb_id": "6479",
+        "genre": "Drama;Horror;Action;Thriller;Science_Fiction",
+        "rating": 6.9,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 585349010,
+        "script": {
+            "id": "117",
+            "name": "I Am Legend",
+            "description": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone."
+        },
+        "release_date": "14/12/2007",
+        "status": "Released"
+    },
+    {
+        "id": "118",
+        "name": "Charlie and the Chocolate Factory",
+        "tmdb_id": "118",
+        "genre": "Adventure;Comedy;Family;Fantasy",
+        "rating": 6.7,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 474968763,
+        "script": {
+            "id": "118",
+            "name": "Charlie and the Chocolate Factory",
+            "description": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker."
+        },
+        "release_date": "13/07/2005",
+        "status": "Released"
+    },
+    {
+        "id": "119",
+        "name": "Ratatouille",
+        "tmdb_id": "2062",
+        "genre": "Animation;Comedy;Family;Fantasy",
+        "rating": 7.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 623722818,
+        "script": {
+            "id": "119",
+            "name": "Ratatouille",
+            "description": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down."
+        },
+        "release_date": "22/06/2007",
+        "status": "Released"
+    },
+    {
+        "id": "120",
+        "name": "Batman Begins",
+        "tmdb_id": "272",
+        "genre": "Action;Crime;Drama",
+        "rating": 7.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 374218673,
+        "script": {
+            "id": "120",
+            "name": "Batman Begins",
+            "description": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman."
+        },
+        "release_date": "10/06/2005",
+        "status": "Released"
+    },
+    {
+        "id": "121",
+        "name": "Madagascar: Escape 2 Africa",
+        "tmdb_id": "10527",
+        "genre": "Family;Animation",
+        "rating": 6.2,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 603900354,
+        "script": {
+            "id": "121",
+            "name": "Madagascar: Escape 2 Africa",
+            "description": "Alex, Marty, Melman, Gloria, King Julien, Maurice, the penguins and the chimps are back and still marooned on Madagascar. In the face of this obstacle, the New Yorkers have hatched a plan so crazy it just might work. With military precision, the penguins have repaired an old crashed plane... sort of."
+        },
+        "release_date": "30/10/2008",
+        "status": "Released"
+    },
+    {
+        "id": "122",
+        "name": "Night at the Museum: Battle of the Smithsonian",
+        "tmdb_id": "18360",
+        "genre": "Adventure;Fantasy;Action;Comedy;Family",
+        "rating": 5.9,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 413106170,
+        "script": {
+            "id": "122",
+            "name": "Night at the Museum: Battle of the Smithsonian",
+            "description": "Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible."
+        },
+        "release_date": "20/05/2009",
+        "status": "Released"
+    },
+    {
+        "id": "123",
+        "name": "X-Men Origins: Wolverine",
+        "tmdb_id": "2080",
+        "genre": "Adventure;Action;Thriller;Science_Fiction",
+        "rating": 6.2,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 373062864,
+        "script": {
+            "id": "123",
+            "name": "X-Men Origins: Wolverine",
+            "description": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine."
+        },
+        "release_date": "28/04/2009",
+        "status": "Released"
+    },
+    {
+        "id": "124",
+        "name": "The Matrix Revolutions",
+        "tmdb_id": "605",
+        "genre": "Adventure;Action;Thriller;Science_Fiction",
+        "rating": 6.4,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 424988211,
+        "script": {
+            "id": "124",
+            "name": "The Matrix Revolutions",
+            "description": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith."
+        },
+        "release_date": "05/11/2003",
+        "status": "Released"
+    },
+    {
+        "id": "125",
+        "name": "Frozen",
+        "tmdb_id": "109445",
+        "genre": "Animation;Adventure;Family",
+        "rating": 7.3,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 1274219009,
+        "script": {
+            "id": "125",
+            "name": "Frozen",
+            "description": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa‚Äôs coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means."
+        },
+        "release_date": "27/11/2013",
+        "status": "Released"
+    },
+    {
+        "id": "126",
+        "name": "The Matrix Reloaded",
+        "tmdb_id": "604",
+        "genre": "Adventure;Action;Thriller;Science_Fiction",
+        "rating": 6.7,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 738599701,
+        "script": {
+            "id": "126",
+            "name": "The Matrix Reloaded",
+            "description": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance.  Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source.  Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target."
+        },
+        "release_date": "15/05/2003",
+        "status": "Released"
+    },
+    {
+        "id": "127",
+        "name": "Thor: The Dark World",
+        "tmdb_id": "76338",
+        "genre": "Action;Adventure;Fantasy",
+        "rating": 6.8,
+        "budget": 170000000,
+        "actual_budget": 170000000,
+        "revenue": 644571402,
+        "script": {
+            "id": "127",
+            "name": "Thor: The Dark World",
+            "description": "Thor fights to restore order across the cosmos‚Ä¶ but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all."
+        },
+        "release_date": "29/10/2013",
+        "status": "Released"
+    },
+    {
+        "id": "128",
+        "name": "Mad Max: Fury Road",
+        "tmdb_id": "76341",
+        "genre": "Action;Adventure;Science_Fiction;Thriller",
+        "rating": 7.2,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 378858340,
+        "script": {
+            "id": "128",
+            "name": "Mad Max: Fury Road",
+            "description": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland."
+        },
+        "release_date": "13/05/2015",
+        "status": "Released"
+    },
+    {
+        "id": "129",
+        "name": "Angels & Demons",
+        "tmdb_id": "13448",
+        "genre": "Thriller;Mystery",
+        "rating": 6.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 356613439,
+        "script": {
+            "id": "129",
+            "name": "Angels & Demons",
+            "description": "Harvard symbologist Robert Langdon investigates a mysterious symbol seared into the chest of a murdered physicist. He discovers evidence of the unimaginable, the rebirth of an ancient secret brotherhood known as the Illuminati, the most powerful underground organization ever to walk the earth."
+        },
+        "release_date": "13/05/2009",
+        "status": "Released"
+    },
+    {
+        "id": "130",
+        "name": "Thor",
+        "tmdb_id": "10195",
+        "genre": "Adventure;Fantasy;Action",
+        "rating": 6.6,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 449326618,
+        "script": {
+            "id": "130",
+            "name": "Thor",
+            "description": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth."
+        },
+        "release_date": "21/04/2011",
+        "status": "Released"
+    },
+    {
+        "id": "131",
+        "name": "Bolt",
+        "tmdb_id": "13053",
+        "genre": "Animation;Family;Adventure;Comedy",
+        "rating": 6.3,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 309979994,
+        "script": {
+            "id": "131",
+            "name": "Bolt",
+            "description": "Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it's real. After he's accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his \"super powers\" to find a way home."
+        },
+        "release_date": "21/11/2008",
+        "status": "Released"
+    },
+    {
+        "id": "132",
+        "name": "G-Force",
+        "tmdb_id": "19585",
+        "genre": "Fantasy;Action;Adventure;Family;Comedy",
+        "rating": 5.1,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 292817841,
+        "script": {
+            "id": "132",
+            "name": "G-Force",
+            "description": "A team of trained secret agent animals, guinea pigs Darwin, Juarez, Blaster, mole Speckles, and fly Mooch takes on a mission for the US government to stop evil Leonard Saber, who plans to destroy the world with household appliances. But the government shuts them down and they are sentenced to a pet shop. Can they escape to defeat the villain and save the world?"
+        },
+        "release_date": "21/07/2009",
+        "status": "Released"
+    },
+    {
+        "id": "133",
+        "name": "Wrath of the Titans",
+        "tmdb_id": "57165",
+        "genre": "Adventure",
+        "rating": 5.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 301000000,
+        "script": {
+            "id": "133",
+            "name": "Wrath of the Titans",
+            "description": "A decade after his heroic defeat of the monstrous Kraken, Perseus-the demigod son of Zeus-is attempting to live a quieter life as a village fisherman and the sole parent to his 10-year old son, Helius. Meanwhile, a struggle for supremacy rages between the gods and the Titans. Dangerously weakened by humanity's lack of devotion, the gods are losing control of the imprisoned Titans and their ferocious leader, Kronos, father of the long-ruling brothers Zeus, Hades and Poseidon."
+        },
+        "release_date": "27/03/2012",
+        "status": "Released"
+    },
+    {
+        "id": "134",
+        "name": "Dark Shadows",
+        "tmdb_id": "62213",
+        "genre": "Comedy;Fantasy",
+        "rating": 5.7,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 245527149,
+        "script": {
+            "id": "134",
+            "name": "Dark Shadows",
+            "description": "Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin."
+        },
+        "release_date": "08/05/2012",
+        "status": "Released"
+    },
+    {
+        "id": "135",
+        "name": "Mission: Impossible - Rogue Nation",
+        "tmdb_id": "177677",
+        "genre": "Action;Adventure;Thriller",
+        "rating": 7.1,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 682330139,
+        "script": {
+            "id": "135",
+            "name": "Mission: Impossible - Rogue Nation",
+            "description": "Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF."
+        },
+        "release_date": "23/07/2015",
+        "status": "Released"
+    },
+    {
+        "id": "136",
+        "name": "The Wolfman",
+        "tmdb_id": "7978",
+        "genre": "Drama;Horror;Thriller",
+        "rating": 5.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 0,
+        "script": {
+            "id": "136",
+            "name": "The Wolfman",
+            "description": "Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh."
+        },
+        "release_date": "11/02/2010",
+        "status": "Released"
+    },
+    {
+        "id": "137",
+        "name": "Bee Movie",
+        "tmdb_id": "5559",
+        "genre": "Family;Animation;Adventure;Comedy",
+        "rating": 5.7,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 287594577,
+        "script": {
+            "id": "137",
+            "name": "Bee Movie",
+            "description": "Barry B. Benson, a bee who has just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey, and subsequently decides to sue us."
+        },
+        "release_date": "28/10/2007",
+        "status": "Released"
+    },
+    {
+        "id": "138",
+        "name": "Kung Fu Panda 2",
+        "tmdb_id": "49444",
+        "genre": "Animation;Family",
+        "rating": 6.7,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 665692281,
+        "script": {
+            "id": "138",
+            "name": "Kung Fu Panda 2",
+            "description": "Po is now living his dream as The Dragon Warrior, protecting the Valley of Peace alongside his friends and fellow kung fu masters, The Furious Five - Tigress, Crane, Mantis, Viper and Monkey. But Po‚Äôs new life of awesomeness is threatened by the emergence of a formidable villain, who plans to use a secret, unstoppable weapon to conquer China and destroy kung fu. It is up to Po and The Furious Five to journey across China to face this threat and vanquish it. But how can Po stop a weapon that can stop kung fu? He must look to his past and uncover the secrets of his mysterious origins; only then will he be able to unlock the strength he needs to succeed."
+        },
+        "release_date": "25/05/2011",
+        "status": "Released"
+    },
+    {
+        "id": "139",
+        "name": "The Last Airbender",
+        "tmdb_id": "10196",
+        "genre": "Action;Adventure;Family;Fantasy",
+        "rating": 4.7,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 318502923,
+        "script": {
+            "id": "139",
+            "name": "The Last Airbender",
+            "description": "The story follows the adventures of Aang, a young successor to a long line of Avatars, who must put his childhood ways aside and stop the Fire Nation from enslaving the Water, Earth and Air nations."
+        },
+        "release_date": "30/06/2010",
+        "status": "Released"
+    },
+    {
+        "id": "140",
+        "name": "Mission: Impossible III",
+        "tmdb_id": "956",
+        "genre": "Adventure;Action;Thriller",
+        "rating": 6.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 397850012,
+        "script": {
+            "id": "140",
+            "name": "Mission: Impossible III",
+            "description": "Retired from active duty to train new IMF agents, Ethan Hunt is called back into action to confront sadistic arms dealer, Owen Davian. Hunt must try to protect his girlfriend while working with his new team to complete the mission."
+        },
+        "release_date": "03/05/2006",
+        "status": "Released"
+    },
+    {
+        "id": "141",
+        "name": "White House Down",
+        "tmdb_id": "117251",
+        "genre": "Action;Drama;Thriller",
+        "rating": 6.4,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 205366737,
+        "script": {
+            "id": "141",
+            "name": "White House Down",
+            "description": "Capitol Policeman John Cale has just been denied his dream job with the Secret Service of protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country."
+        },
+        "release_date": "27/06/2013",
+        "status": "Released"
+    },
+    {
+        "id": "142",
+        "name": "Mars Needs Moms",
+        "tmdb_id": "50321",
+        "genre": "Adventure;Animation;Family",
+        "rating": 5.5,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 38992758,
+        "script": {
+            "id": "142",
+            "name": "Mars Needs Moms",
+            "description": "When Martians suddenly abduct his mom, mischievous Milo rushes to the rescue and discovers why all moms are so special."
+        },
+        "release_date": "09/03/2011",
+        "status": "Released"
+    },
+    {
+        "id": "143",
+        "name": "Flushed Away",
+        "tmdb_id": "11619",
+        "genre": "Adventure;Animation;Comedy;Family",
+        "rating": 6.0,
+        "budget": 149000000,
+        "actual_budget": 149000000,
+        "revenue": 64459316,
+        "script": {
+            "id": "143",
+            "name": "Flushed Away",
+            "description": "London high-society mouse, Roddy is flushed down the toilet by Sid, a common sewer rat. Hang on for a madcap adventure deep in the sewer bowels of Ratropolis, where Roddy meets the resourceful Rita, the rodent-hating Toad and his faithful thugs, Spike and Whitey."
+        },
+        "release_date": "22/10/2006",
+        "status": "Released"
+    },
+    {
+        "id": "144",
+        "name": "Pan",
+        "tmdb_id": "266647",
+        "genre": "Adventure;Family;Fantasy",
+        "rating": 5.9,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 128388320,
+        "script": {
+            "id": "144",
+            "name": "Pan",
+            "description": "Living a bleak existence at a London orphanage, 12-year-old Peter finds himself whisked away to the fantastical world of Neverland. Adventure awaits as he meets new friend James Hook and the warrior Tiger Lily. They must band together to save Neverland from the ruthless pirate Blackbeard. Along the way, the rebellious and mischievous boy discovers his true destiny, becoming the hero forever known as Peter Pan."
+        },
+        "release_date": "24/09/2015",
+        "status": "Released"
+    },
+    {
+        "id": "145",
+        "name": "Mr. Peabody & Sherman",
+        "tmdb_id": "82703",
+        "genre": "Animation;Adventure;Family",
+        "rating": 6.7,
+        "budget": 145000000,
+        "actual_budget": 145000000,
+        "revenue": 272912430,
+        "script": {
+            "id": "145",
+            "name": "Mr. Peabody & Sherman",
+            "description": "A young boy and his dog, who happens to have a genius-level IQ, spring into action when their time-travel machine is stolen and moments in history begin to be changed."
+        },
+        "release_date": "07/02/2014",
+        "status": "Released"
+    },
+    {
+        "id": "146",
+        "name": "Troy",
+        "tmdb_id": "652",
+        "genre": "Adventure;Drama;War",
+        "rating": 6.9,
+        "budget": 175000000,
+        "actual_budget": 175000000,
+        "revenue": 497409852,
+        "script": {
+            "id": "146",
+            "name": "Troy",
+            "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnom to help him get her back. Agamemnon sees this as an opportunity for power. So they set off with 1,000 ships holding 50,000 Greeks to Troy. With the help of Achilles, the Greeks are able to fight the never before defeated Trojans."
+        },
+        "release_date": "13/05/2004",
+        "status": "Released"
+    },
+    {
+        "id": "147",
+        "name": "Madagascar 3: Europe's Most Wanted",
+        "tmdb_id": "80321",
+        "genre": "Animation;Family",
+        "rating": 6.4,
+        "budget": 145000000,
+        "actual_budget": 145000000,
+        "revenue": 746921274,
+        "script": {
+            "id": "147",
+            "name": "Madagascar 3: Europe's Most Wanted",
+            "description": "Alex, Marty, Gloria and Melman are still trying to get back to the Big Apple and their beloved Central Park zoo, but first they need to find the penguins. When they travel to Monte Carlo, they attract the attention of Animal Control after gate crashing a party and are joined by the penguins, King Julian and Co., and the monkeys. How do a lion, zebra, hippo, giraffe, four penguins, two monkeys, three lemurs travel through Europe without attracting attention and get back to New York? They join a traveling circus. Their attempts to get back to New York are consistently hampered by the Captain of Animal Control who wants to make Alex part of her collection. Once they make it back to New York Marty, Alex, Gloria and Melman realize that they want to be part of the traveling circus."
+        },
+        "release_date": "06/06/2012",
+        "status": "Released"
+    },
+    {
+        "id": "148",
+        "name": "Die Another Day",
+        "tmdb_id": "36669",
+        "genre": "Adventure;Action;Thriller",
+        "rating": 5.8,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 431971116,
+        "script": {
+            "id": "148",
+            "name": "Die Another Day",
+            "description": "Bond takes on a North Korean leader who undergoes DNA replacement procedures that allow him to assume different identities. American agent, Jinx Johnson assists Bond in his attempt to thwart the villain's plans to exploit a satellite that is powered by solar energy."
+        },
+        "release_date": "17/11/2002",
+        "status": "Released"
+    },
+    {
+        "id": "149",
+        "name": "Ghostbusters",
+        "tmdb_id": "43074",
+        "genre": "Action;Fantasy;Comedy",
+        "rating": 5.3,
+        "budget": 144000000,
+        "actual_budget": 144000000,
+        "revenue": 229147509,
+        "script": {
+            "id": "149",
+            "name": "Ghostbusters",
+            "description": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat."
+        },
+        "release_date": "14/07/2016",
+        "status": "Released"
+    },
+    {
+        "id": "150",
+        "name": "Armageddon",
+        "tmdb_id": "95",
+        "genre": "Action;Thriller;Science_Fiction;Adventure",
+        "rating": 6.4,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 553799566,
+        "script": {
+            "id": "150",
+            "name": "Armageddon",
+            "description": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise."
+        },
+        "release_date": "01/07/1998",
+        "status": "Released"
+    },
+    {
+        "id": "151",
+        "name": "Men in Black II",
+        "tmdb_id": "608",
+        "genre": "Action;Adventure;Comedy;Science_Fiction",
+        "rating": 6.0,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 441818803,
+        "script": {
+            "id": "151",
+            "name": "Men in Black II",
+            "description": "Kay and Jay reunite to provide our best, last and only line of defense against a sinister seductress who levels the toughest challenge yet to the MIB's untarnished mission statement ‚Äì protecting Earth from the scum of the universe. It's been four years since the alien-seeking agents averted an intergalactic disaster of epic proportions. Now it's a race against the clock as Jay must convince Kay ‚Äì who not only has absolutely no memory of his time spent with the MIB, but is also the only living person left with the expertise to save the galaxy ‚Äì to reunite with the MIB before the earth submits to ultimate destruction."
+        },
+        "release_date": "03/07/2002",
+        "status": "Released"
+    },
+    {
+        "id": "152",
+        "name": "Beowulf",
+        "tmdb_id": "2310",
+        "genre": "Adventure;Action;Animation",
+        "rating": 5.5,
+        "budget": 70000000,
+        "actual_budget": 70000000,
+        "revenue": 195735876,
+        "script": {
+            "id": "152",
+            "name": "Beowulf",
+            "description": "6th-century Scandinavian warrior, Beowulf embarks on a mission to slay the manlike ogre Grendel, a descendant of Cain."
+        },
+        "release_date": "05/11/2007",
+        "status": "Released"
+    },
+    {
+        "id": "153",
+        "name": "Kung Fu Panda 3",
+        "tmdb_id": "140300",
+        "genre": "Action;Adventure;Animation;Comedy;Family",
+        "rating": 6.7,
+        "budget": 145000000,
+        "actual_budget": 145000000,
+        "revenue": 521170825,
+        "script": {
+            "id": "153",
+            "name": "Kung Fu Panda 3",
+            "description": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home."
+        },
+        "release_date": "23/01/2016",
+        "status": "Released"
+    },
+    {
+        "id": "154",
+        "name": "Mission: Impossible - Ghost Protocol",
+        "tmdb_id": "56292",
+        "genre": "Action;Thriller;Adventure",
+        "rating": 6.8,
+        "budget": 145000000,
+        "actual_budget": 145000000,
+        "revenue": 694713380,
+        "script": {
+            "id": "154",
+            "name": "Mission: Impossible - Ghost Protocol",
+            "description": "In the 4th installment of the Mission Impossible series, Ethan Hunt (Cruise) and his team are racing against time to track down a dangerous terrorist named Hendricks (Nyqvist), who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster."
+        },
+        "release_date": "07/12/2011",
+        "status": "Released"
+    },
+    {
+        "id": "155",
+        "name": "Rise of the Guardians",
+        "tmdb_id": "81188",
+        "genre": "Fantasy;Animation;Family",
+        "rating": 7.1,
+        "budget": 145000000,
+        "actual_budget": 145000000,
+        "revenue": 306941670,
+        "script": {
+            "id": "155",
+            "name": "Rise of the Guardians",
+            "description": "When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world."
+        },
+        "release_date": "21/11/2012",
+        "status": "Released"
+    },
+    {
+        "id": "156",
+        "name": "Fun with Dick and Jane",
+        "tmdb_id": "7552",
+        "genre": "Comedy",
+        "rating": 5.9,
+        "budget": 100000000,
+        "actual_budget": 100000000,
+        "revenue": 202026112,
+        "script": {
+            "id": "156",
+            "name": "Fun with Dick and Jane",
+            "description": "After Dick Harper loses his job at Globodyne in an Enron-esque collapse, he and his wife, Jane, turn to crime in order to handle the massive debt they now face. Two intelligent people, Dick and Jane actually get pretty good at robbing people and even enjoy it -- but they have second thoughts when they're reminded that crime can hurt innocent people. When the couple hears that Globodyne boss Jack McCallister actually swindled the company, they plot revenge."
+        },
+        "release_date": "21/12/2005",
+        "status": "Released"
+    },
+    {
+        "id": "157",
+        "name": "The Last Samurai",
+        "tmdb_id": "616",
+        "genre": "Drama;Action;War;History",
+        "rating": 7.3,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 456758981,
+        "script": {
+            "id": "157",
+            "name": "The Last Samurai",
+            "description": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist."
+        },
+        "release_date": "05/12/2003",
+        "status": "Released"
+    },
+    {
+        "id": "158",
+        "name": "Exodus: Gods and Kings",
+        "tmdb_id": "147441",
+        "genre": "Adventure;Drama;Action",
+        "rating": 5.6,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 268031828,
+        "script": {
+            "id": "158",
+            "name": "Exodus: Gods and Kings",
+            "description": "The defiant leader Moses rises up against the Egyptian Pharaoh Ramses, setting 400,000 slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues."
+        },
+        "release_date": "03/12/2014",
+        "status": "Released"
+    },
+    {
+        "id": "159",
+        "name": "Star Trek",
+        "tmdb_id": "13475",
+        "genre": "Science_Fiction;Action;Adventure",
+        "rating": 7.4,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 385680446,
+        "script": {
+            "id": "159",
+            "name": "Star Trek",
+            "description": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again."
+        },
+        "release_date": "06/05/2009",
+        "status": "Released"
+    },
+    {
+        "id": "160",
+        "name": "Spider-Man",
+        "tmdb_id": "557",
+        "genre": "Fantasy;Action",
+        "rating": 6.8,
+        "budget": 139000000,
+        "actual_budget": 139000000,
+        "revenue": 821708551,
+        "script": {
+            "id": "160",
+            "name": "Spider-Man",
+            "description": "After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers."
+        },
+        "release_date": "01/05/2002",
+        "status": "Released"
+    },
+    {
+        "id": "161",
+        "name": "How to Train Your Dragon 2",
+        "tmdb_id": "82702",
+        "genre": "Fantasy;Action;Adventure;Animation;Comedy;Family",
+        "rating": 7.6,
+        "budget": 145000000,
+        "actual_budget": 145000000,
+        "revenue": 609123048,
+        "script": {
+            "id": "161",
+            "name": "How to Train Your Dragon 2",
+            "description": "The thrilling second chapter of the epic How To Train Your Dragon trilogy brings back the fantastical world of Hiccup and Toothless five years later. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace."
+        },
+        "release_date": "12/06/2014",
+        "status": "Released"
+    },
+    {
+        "id": "162",
+        "name": "Gods of Egypt",
+        "tmdb_id": "205584",
+        "genre": "Fantasy",
+        "rating": 5.3,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 150680864,
+        "script": { "id": "162", "name": "Gods of Egypt", "description": "A common thief joins a mythical god on a quest through Egypt." },
+        "release_date": "25/02/2016",
+        "status": "Released"
+    },
+    {
+        "id": "163",
+        "name": "Stealth",
+        "tmdb_id": "10048",
+        "genre": "Action",
+        "rating": 4.9,
+        "budget": 135000000,
+        "actual_budget": 135000000,
+        "revenue": 76932943,
+        "script": {
+            "id": "163",
+            "name": "Stealth",
+            "description": "Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control ... before it initiates the next world war."
+        },
+        "release_date": "28/07/2005",
+        "status": "Released"
+    },
+    {
+        "id": "164",
+        "name": "Watchmen",
+        "tmdb_id": "13183",
+        "genre": "Action;Mystery;Science_Fiction",
+        "rating": 7.0,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 185258983,
+        "script": {
+            "id": "164",
+            "name": "Watchmen",
+            "description": "In a gritty and alternate 1985 the glory days of costumed vigilantes have been brought to a close by a government crackdown, but after one of the masked veterans is brutally murdered an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so uncover a sinister plot that puts all of humanity in grave danger."
+        },
+        "release_date": "05/03/2009",
+        "status": "Released"
+    },
+    {
+        "id": "165",
+        "name": "Lethal Weapon 4",
+        "tmdb_id": "944",
+        "genre": "Action;Adventure;Comedy;Crime;Thriller",
+        "rating": 6.3,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 285444603,
+        "script": {
+            "id": "165",
+            "name": "Lethal Weapon 4",
+            "description": "In the combustible action franchise's final installment, maverick detectives Martin Riggs and Roger Murtaugh square off against Asian mobster Wah Sing Ku, who's up to his neck in slave trading and counterfeit currency. With help from gumshoe Leo Getz and smart-aleck rookie cop Lee Butters, Riggs and Murtaugh aim to take down Ku and his gang."
+        },
+        "release_date": "10/07/1998",
+        "status": "Released"
+    },
+    {
+        "id": "166",
+        "name": "Hulk",
+        "tmdb_id": "1927",
+        "genre": "Drama;Action;Science_Fiction",
+        "rating": 5.3,
+        "budget": 137000000,
+        "actual_budget": 137000000,
+        "revenue": 245360480,
+        "script": {
+            "id": "166",
+            "name": "Hulk",
+            "description": "Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry."
+        },
+        "release_date": "19/06/2003",
+        "status": "Released"
+    },
+    {
+        "id": "167",
+        "name": "G.I. Joe: Retaliation",
+        "tmdb_id": "72559",
+        "genre": "Adventure;Action;Science_Fiction;Thriller",
+        "rating": 5.4,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 371876278,
+        "script": {
+            "id": "167",
+            "name": "G.I. Joe: Retaliation",
+            "description": "Framed for crimes against the country, the G.I. Joe team is terminated by Presidential order. This forces the G.I. Joes into not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence."
+        },
+        "release_date": "26/03/2013",
+        "status": "Released"
+    },
+    {
+        "id": "168",
+        "name": "Sahara",
+        "tmdb_id": "7364",
+        "genre": "Action;Adventure;Comedy;Drama;Mystery",
+        "rating": 5.7,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 119269486,
+        "script": {
+            "id": "168",
+            "name": "Sahara",
+            "description": "Scouring the ocean depths for treasure-laden shipwrecks is business as usual for a thrill-seeking underwater adventurer and his wisecracking buddy. But when these two cross paths with a beautiful doctor, they find themselves on the ultimate treasure hunt."
+        },
+        "release_date": "06/04/2005",
+        "status": "Released"
+    },
+    {
+        "id": "169",
+        "name": "Final Fantasy: The Spirits Within",
+        "tmdb_id": "2114",
+        "genre": "Adventure;Action;Animation;Fantasy;Science_Fiction;Thriller",
+        "rating": 5.9,
+        "budget": 137000000,
+        "actual_budget": 137000000,
+        "revenue": 85131830,
+        "script": {
+            "id": "169",
+            "name": "Final Fantasy: The Spirits Within",
+            "description": "Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within."
+        },
+        "release_date": "02/07/2001",
+        "status": "Released"
+    },
+    {
+        "id": "170",
+        "name": "Captain America: The First Avenger",
+        "tmdb_id": "1771",
+        "genre": "Action;Adventure;Science_Fiction",
+        "rating": 6.6,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 370569774,
+        "script": {
+            "id": "170",
+            "name": "Captain America: The First Avenger",
+            "description": "Predominantly set during World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull ‚Äì Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination."
+        },
+        "release_date": "22/07/2011",
+        "status": "Released"
+    },
+    {
+        "id": "171",
+        "name": "The World Is Not Enough",
+        "tmdb_id": "36643",
+        "genre": "Adventure;Action;Thriller",
+        "rating": 6.0,
+        "budget": 135000000,
+        "actual_budget": 135000000,
+        "revenue": 361832400,
+        "script": {
+            "id": "171",
+            "name": "The World Is Not Enough",
+            "description": "Greed, revenge, world dominance and high-tech terrorism ‚Äì it's all in a day's work for Bond, who's on a mission to a protect beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance."
+        },
+        "release_date": "08/11/1999",
+        "status": "Released"
+    },
+    {
+        "id": "172",
+        "name": "Master and Commander: The Far Side of the World",
+        "tmdb_id": "8619",
+        "genre": "Adventure",
+        "rating": 6.9,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 212011111,
+        "script": {
+            "id": "172",
+            "name": "Master and Commander: The Far Side of the World",
+            "description": "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend."
+        },
+        "release_date": "14/11/2003",
+        "status": "Released"
+    },
+    {
+        "id": "173",
+        "name": "The Twilight Saga: Breaking Dawn - Part 2",
+        "tmdb_id": "50620",
+        "genre": "Adventure;Fantasy;Drama;Romance",
+        "rating": 6.1,
+        "budget": 120000000,
+        "actual_budget": 120000000,
+        "revenue": 829000000,
+        "script": {
+            "id": "173",
+            "name": "The Twilight Saga: Breaking Dawn - Part 2",
+            "description": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi."
+        },
+        "release_date": "13/11/2012",
+        "status": "Released"
+    },
+    {
+        "id": "174",
+        "name": "Happy Feet Two",
+        "tmdb_id": "65759",
+        "genre": "Animation;Comedy;Family",
+        "rating": 5.8,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 150406466,
+        "script": {
+            "id": "174",
+            "name": "Happy Feet Two",
+            "description": "Mumble the penguin has a problem: his son Erik, who is reluctant to dance, encounters The Mighty Sven, a penguin who can fly! Things get worse for Mumble when the world is shaken by powerful forces, causing him to brings together the penguin nations and their allies to set things right."
+        },
+        "release_date": "17/11/2011",
+        "status": "Released"
+    },
+    {
+        "id": "175",
+        "name": "The Incredible Hulk",
+        "tmdb_id": "1724",
+        "genre": "Science_Fiction;Action;Adventure",
+        "rating": 6.1,
+        "budget": 150000000,
+        "actual_budget": 150000000,
+        "revenue": 163712074,
+        "script": {
+            "id": "175",
+            "name": "The Incredible Hulk",
+            "description": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe."
+        },
+        "release_date": "12/06/2008",
+        "status": "Released"
+    },
+    {
+        "id": "176",
+        "name": "The BFG",
+        "tmdb_id": "267935",
+        "genre": "Adventure;Family;Fantasy",
+        "rating": 6.0,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 183345589,
+        "script": {
+            "id": "176",
+            "name": "The BFG",
+            "description": "The BFG is no ordinary bone-crunching giant. He is far too nice and jumbly. It's lucky for Sophie that he is. Had she been carried off in the middle of the night by the Bloodbottler, or any of the other giants‚Äîrather than the BFG‚Äîshe would have soon become breakfast. When Sophie hears that the giants are flush-bunking off to England to swollomp a few nice little chiddlers, she decides she must stop them once and for all. And the BFG is going to help her!"
+        },
+        "release_date": "01/06/2016",
+        "status": "Released"
+    },
+    {
+        "id": "177",
+        "name": "The Revenant",
+        "tmdb_id": "281957",
+        "genre": "Western;Drama;Adventure;Thriller",
+        "rating": 7.3,
+        "budget": 135000000,
+        "actual_budget": 135000000,
+        "revenue": 532950503,
+        "script": {
+            "id": "177",
+            "name": "The Revenant",
+            "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling."
+        },
+        "release_date": "25/12/2015",
+        "status": "Released"
+    },
+    {
+        "id": "178",
+        "name": "Turbo",
+        "tmdb_id": "77950",
+        "genre": "Animation;Family",
+        "rating": 6.1,
+        "budget": 135000000,
+        "actual_budget": 135000000,
+        "revenue": 282570682,
+        "script": { "id": "178", "name": "Turbo", "description": "The tale of an ordinary garden snail who dreams of winning the Indy 500." },
+        "release_date": "11/07/2013",
+        "status": "Released"
+    },
+    {
+        "id": "179",
+        "name": "Rango",
+        "tmdb_id": "44896",
+        "genre": "Animation;Comedy;Family;Western;Adventure",
+        "rating": 6.6,
+        "budget": 135000000,
+        "actual_budget": 135000000,
+        "revenue": 245724603,
+        "script": {
+            "id": "179",
+            "name": "Rango",
+            "description": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt."
+        },
+        "release_date": "02/03/2011",
+        "status": "Released"
+    },
+    {
+        "id": "180",
+        "name": "Penguins of Madagascar",
+        "tmdb_id": "270946",
+        "genre": "Family;Animation;Adventure;Comedy",
+        "rating": 6.5,
+        "budget": 132000000,
+        "actual_budget": 132000000,
+        "revenue": 373552094,
+        "script": {
+            "id": "180",
+            "name": "Penguins of Madagascar",
+            "description": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it."
+        },
+        "release_date": "22/11/2014",
+        "status": "Released"
+    },
+    {
+        "id": "181",
+        "name": "The Bourne Ultimatum",
+        "tmdb_id": "2503",
+        "genre": "Action;Drama;Mystery;Thriller",
+        "rating": 7.3,
+        "budget": 70000000,
+        "actual_budget": 70000000,
+        "revenue": 442824138,
+        "script": {
+            "id": "181",
+            "name": "The Bourne Ultimatum",
+            "description": "Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company's best efforts to eradicate him."
+        },
+        "release_date": "03/08/2007",
+        "status": "Released"
+    },
+    {
+        "id": "182",
+        "name": "Kung Fu Panda",
+        "tmdb_id": "9502",
+        "genre": "Adventure;Animation;Family;Comedy",
+        "rating": 6.9,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 631744560,
+        "script": {
+            "id": "182",
+            "name": "Kung Fu Panda",
+            "description": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try."
+        },
+        "release_date": "04/06/2008",
+        "status": "Released"
+    },
+    {
+        "id": "183",
+        "name": "Ant-Man",
+        "tmdb_id": "102899",
+        "genre": "Science_Fiction;Action;Adventure",
+        "rating": 7.0,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 519311965,
+        "script": {
+            "id": "183",
+            "name": "Ant-Man",
+            "description": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world."
+        },
+        "release_date": "14/07/2015",
+        "status": "Released"
+    },
+    {
+        "id": "184",
+        "name": "The Hunger Games: Catching Fire",
+        "tmdb_id": "101299",
+        "genre": "Adventure;Action;Science_Fiction",
+        "rating": 7.4,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 847423452,
+        "script": {
+            "id": "184",
+            "name": "The Hunger Games: Catching Fire",
+            "description": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever."
+        },
+        "release_date": "15/11/2013",
+        "status": "Released"
+    },
+    {
+        "id": "185",
+        "name": "Home",
+        "tmdb_id": "228161",
+        "genre": "Fantasy;Comedy;Animation;Science_Fiction;Family",
+        "rating": 6.8,
+        "budget": 135000000,
+        "actual_budget": 135000000,
+        "revenue": 368871007,
+        "script": {
+            "id": "185",
+            "name": "Home",
+            "description": "When Earth is taken over by the overly-confident Boov, an alien race in search of a new place to call home, all humans are promptly relocated, while all Boov get busy reorganizing the planet. But when one resourceful girl, Tip, manages to avoid capture, she finds herself the accidental accomplice of a banished Boov named Oh. The two fugitives realize there‚Äôs a lot more at stake than intergalactic relations as they embark on the road trip of a lifetime."
+        },
+        "release_date": "18/03/2015",
+        "status": "Released"
+    },
+    {
+        "id": "186",
+        "name": "War of the Worlds",
+        "tmdb_id": "74",
+        "genre": "Adventure;Thriller;Science_Fiction",
+        "rating": 6.2,
+        "budget": 132000000,
+        "actual_budget": 132000000,
+        "revenue": 591739379,
+        "script": {
+            "id": "186",
+            "name": "War of the Worlds",
+            "description": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop of his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down."
+        },
+        "release_date": "28/06/2005",
+        "status": "Released"
+    },
+    {
+        "id": "187",
+        "name": "Bad Boys II",
+        "tmdb_id": "8961",
+        "genre": "Adventure;Action;Comedy;Thriller;Crime",
+        "rating": 6.3,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 273339556,
+        "script": {
+            "id": "187",
+            "name": "Bad Boys II",
+            "description": "Out-of-control, trash-talking buddy cops Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force reunite, and bullets fly, cars crash and laughs explode as they pursue a whacked-out drug lord from the streets of Miami to the barrios of Cuba. But the real fireworks result when Marcus discovers that playboy Mike is secretly romancing Marcus‚Äô sexy sister."
+        },
+        "release_date": "18/07/2003",
+        "status": "Released"
+    },
+    {
+        "id": "188",
+        "name": "Puss in Boots",
+        "tmdb_id": "417859",
+        "genre": "Action;Adventure;Animation;Family;Fantasy",
+        "rating": 6.4,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 554987477,
+        "script": {
+            "id": "188",
+            "name": "Puss in Boots",
+            "description": "Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots."
+        },
+        "release_date": "28/10/2011",
+        "status": "Released"
+    },
+    {
+        "id": "189",
+        "name": "Salt",
+        "tmdb_id": "27576",
+        "genre": "Action;Mystery;Thriller",
+        "rating": 6.2,
+        "budget": 110000000,
+        "actual_budget": 110000000,
+        "revenue": 293329073,
+        "script": {
+            "id": "189",
+            "name": "Salt",
+            "description": "As a CIA officer, Evelyn Salt swore an oath to duty, honor and country. Her loyalty will be tested when a defector accuses her of being a Russian spy. Salt goes on the run, using all her skills and years of experience as a covert operative to elude capture. Salt's efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: \"Who is Salt?\""
+        },
+        "release_date": "21/07/2010",
+        "status": "Released"
+    },
+    {
+        "id": "190",
+        "name": "Noah",
+        "tmdb_id": "86834",
+        "genre": "Drama;Adventure",
+        "rating": 5.6,
+        "budget": 125000000,
+        "actual_budget": 125000000,
+        "revenue": 362637473,
+        "script": {
+            "id": "190",
+            "name": "Noah",
+            "description": "A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood."
+        },
+        "release_date": "20/03/2014",
+        "status": "Released"
+    },
+    {
+        "id": "191",
+        "name": "The Adventures of Tintin",
+        "tmdb_id": "17578",
+        "genre": "Adventure;Animation;Mystery",
+        "rating": 6.7,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 371940071,
+        "script": {
+            "id": "191",
+            "name": "The Adventures of Tintin",
+            "description": "Intrepid young reporter, Tintin and his loyal dog, Snowy are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson &amp; Thomson, travel half the world, one step ahead of their enemies as Tintin endeavors to find The Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse."
+        },
+        "release_date": "25/10/2011",
+        "status": "Released"
+    },
+    {
+        "id": "192",
+        "name": "Harry Potter and the Prisoner of Azkaban",
+        "tmdb_id": "673",
+        "genre": "Adventure;Fantasy;Family",
+        "rating": 7.7,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 789804554,
+        "script": {
+            "id": "192",
+            "name": "Harry Potter and the Prisoner of Azkaban",
+            "description": "Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black ‚Äì and turns to sympathetic Professor Lupin for help."
+        },
+        "release_date": "31/05/2004",
+        "status": "Released"
+    },
+    {
+        "id": "193",
+        "name": "Australia",
+        "tmdb_id": "6972",
+        "genre": "Drama",
+        "rating": 6.3,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 49554002,
+        "script": {
+            "id": "193",
+            "name": "Australia",
+            "description": "Set in northern Australia before World War II, an English aristocrat who inherits a sprawling ranch reluctantly pacts with a stock-man in order to protect her new property from a takeover plot. As the pair drive 2,000 head of cattle over unforgiving landscape, they experience the bombing of Darwin, Australia, by Japanese forces firsthand."
+        },
+        "release_date": "18/11/2008",
+        "status": "Released"
+    },
+    {
+        "id": "194",
+        "name": "After Earth",
+        "tmdb_id": "82700",
+        "genre": "Science_Fiction;Action;Adventure",
+        "rating": 5.0,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 243843127,
+        "script": {
+            "id": "194",
+            "name": "After Earth",
+            "description": "One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance."
+        },
+        "release_date": "30/05/2013",
+        "status": "Released"
+    },
+    {
+        "id": "195",
+        "name": "Dinosaur",
+        "tmdb_id": "10567",
+        "genre": "Animation;Family",
+        "rating": 6.2,
+        "budget": 127500000,
+        "actual_budget": 127500000,
+        "revenue": 354248063,
+        "script": {
+            "id": "195",
+            "name": "Dinosaur",
+            "description": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home."
+        },
+        "release_date": "19/05/2000",
+        "status": "Released"
+    },
+    {
+        "id": "196",
+        "name": "Night at the Museum: Secret of the Tomb",
+        "tmdb_id": "181533",
+        "genre": "Adventure;Comedy;Fantasy;Family",
+        "rating": 6.1,
+        "budget": 127000000,
+        "actual_budget": 127000000,
+        "revenue": 349424282,
+        "script": {
+            "id": "196",
+            "name": "Night at the Museum: Secret of the Tomb",
+            "description": "When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley (Ben Stiller) spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever."
+        },
+        "release_date": "17/12/2014",
+        "status": "Released"
+    },
+    {
+        "id": "197",
+        "name": "Megamind",
+        "tmdb_id": "38055",
+        "genre": "Animation;Action;Comedy;Family;Science_Fiction",
+        "rating": 6.7,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 321887208,
+        "script": {
+            "id": "197",
+            "name": "Megamind",
+            "description": "Bumbling supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life."
+        },
+        "release_date": "28/10/2010",
+        "status": "Released"
+    },
+    {
+        "id": "198",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "tmdb_id": "671",
+        "genre": "Adventure;Fantasy;Family",
+        "rating": 7.5,
+        "budget": 125000000,
+        "actual_budget": 125000000,
+        "revenue": 976475550,
+        "script": {
+            "id": "198",
+            "name": "Harry Potter and the Philosopher's Stone",
+            "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame."
+        },
+        "release_date": "16/11/2001",
+        "status": "Released"
+    },
+    {
+        "id": "199",
+        "name": "R.I.P.D.",
+        "tmdb_id": "49524",
+        "genre": "Fantasy;Action;Comedy;Crime",
+        "rating": 5.4,
+        "budget": 130000000,
+        "actual_budget": 130000000,
+        "revenue": 61648500,
+        "script": {
+            "id": "199",
+            "name": "R.I.P.D.",
+            "description": "A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov."
+        },
+        "release_date": "18/07/2013",
+        "status": "Released"
+    },
+    {
+        "id": "200",
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdb_id": "22",
+        "genre": "Adventure;Fantasy;Action",
+        "rating": 7.5,
+        "budget": 140000000,
+        "actual_budget": 140000000,
+        "revenue": 655011224,
+        "script": {
+            "id": "200",
+            "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "description": "Jack Sparrow, a freewheeling 17th-century pirate who roams the Caribbean Sea, butts heads with a rival pirate bent on pillaging the village of Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her. But their seafaring mission is hardly simple."
+        },
+        "release_date": "09/07/2003",
+        "status": "Released"
+    }
+]

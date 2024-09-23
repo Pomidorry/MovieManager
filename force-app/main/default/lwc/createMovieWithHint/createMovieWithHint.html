@@ -1,0 +1,45 @@
+<template>
+    <!-- Form Container -->
+    <div class="form-container">
+        <!-- Search Input -->
+        <div class="input-container">
+            <lightning-input
+                label="Search for a Movie"
+                value={searchTerm}
+                onchange={handleSearchChange}
+                placeholder="Enter movie title..."
+                class="search-input"
+            ></lightning-input>
+        </div>
+
+        <!-- Search Results -->
+        <div class="results-container">
+            <template if:true={searchResults}>
+                <ul class="results-list">
+                    <template for:each={searchResults} for:item="movie">
+                        <li key={movie.id} class="results-item">
+                            <button
+                                value={movie.id}
+                                data-title={movie.title}
+                                onclick={handleSelectMovie}
+                                class={movie.className}
+                            >
+                                {movie.title}
+                            </button>
+                        </li>
+                    </template>
+                </ul>
+            </template>
+        </div>
+
+        <!-- Create Movie Button -->
+        <div class="button-container">
+            <lightning-button
+                label="Create Movie"
+                onclick={handleCreateMovie}
+                class="create-button"
+                variant="brand"
+            ></lightning-button>
+        </div>
+    </div>
+</template>

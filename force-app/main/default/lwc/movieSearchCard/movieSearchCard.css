@@ -1,0 +1,145 @@
+/* Card Styles */
+.card {
+  display: grid;
+  grid-template-columns: 250px;
+  grid-template-rows: 210px 210px 50px;
+  grid-template-areas: "image" "text" "stats";
+  border-radius: 18px;
+  background: white;
+  z-index: 7;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+  margin: 30px;
+  padding: 10px;
+  position: relative;
+}
+
+.card:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+/* Card Image Styles */
+.card-image {
+  grid-area: image;
+  border-radius: 15px;
+  background-size: cover;
+  width: 100%;
+  max-height: 280px;
+  min-height: 280px;
+  object-fit: cover;
+  border: 2px solid #88c3ff;
+}
+
+/* Card Text Styles */
+.card-text {
+  color: white;
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  grid-area: text;
+  padding-top: 85px;
+}
+
+.card-title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.card-text .date {
+  color: #078fff;
+  font-size: 13px;
+}
+
+.card-text p {
+  color: grey;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.card-text h2 {
+  font-size: 22px;
+  margin: 0 1rem 1rem;
+}
+
+/* Horror Source Badge */
+.horror-source {
+  background-color: hsl(207, 100%, 65%);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+/* Card Stats Styles */
+.card-stats {
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  border-radius: 15px;
+  background: #078fff;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  cursor: pointer;
+  font-size: 22px;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  border: 2px solid #88c3ff;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.card-stats:hover {
+  color: white;
+  border: 5px solid #88c3ff;
+}
+
+.card-stats .border {
+  border-left: 1px solid rgb(5, 98, 173);
+  border-right: 1px solid rgb(5, 98, 173);
+}
+
+/* Card Glow Effect */
+.card::before,
+.card::after {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg, #00b7ff, #2200ff, #ae00ff, #ff00f2);
+  z-index: -1;
+  background-size: 400%;
+  border-radius: 18px;
+  opacity: 0.7;
+  transition: opacity 0.5s ease-in-out;
+  animation: glow 2s infinite;
+}
+
+.card::after {
+  filter: blur(20px);
+}
+
+/* Glowing Effect Animation */
+@keyframes glow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* General Content Styles */
+.content {
+  font-size: 20px;
+}

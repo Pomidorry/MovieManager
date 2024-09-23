@@ -1,0 +1,44 @@
+.review-card {
+    border: 1px solid #d8dde6;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+  }
+  
+  .review-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+  
+  .review-author {
+    font-weight: bold;
+    color: #0070d2;
+  }
+  
+  .review-date {
+    color: #555555;
+  }
+  
+  .review-content {
+    margin-bottom: 8px;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .close-btn {
+    background-color: #f4f6f9;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 50%;
+  }
+  
+  .close-btn:hover {
+    background-color: #d8dde3;
+  }
+  
